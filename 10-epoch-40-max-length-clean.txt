@@ -1,0 +1,157 @@
+11,182 texts collected.
+Training new model w/ 4-layer, 128-cell Bidirectional LSTMs
+Training on 243,737 word sequences.
+Epoch 1/10
+238/238 [==============================] - 112s 469ms/step - loss: 7.1107
+Epoch 2/10
+238/238 [==============================] - 107s 448ms/step - loss: 5.0366
+####################
+Temperature: 0.2
+####################
+a group of college students are forced to make a new york city .
+
+a young man who has been murdered by the world war ii , and a young man who is a man who is a good .
+
+a group of events of the events of the world war ii , the most powerful , the two men who has a man who has a chance to be a good .
+
+####################
+Temperature: 0.5
+####################
+when a journalist and his wife , and a man who is called to find his way to be the next door .
+
+the story of the man ' s very most revered , , the two men who have to be involved in his own hands .
+
+the story follows the story of the same name to the united states , a young man who ' s been dumped for the world war ii .
+
+####################
+Temperature: 1.0
+####################
+now louis set in this intended repressed competition all , and a very real - school of residents abuse , courage ' s mansion to be educated .
+
+with an afro - musical dealer who comes at the advanced of his journey through home ; seeks every dolphin away .
+
+a infection hit against the sea and son havoc on a dark war which could learn that they bear are quite somali follow , has persuaded the look for following love and their promises imaginable from the high school .
+
+Epoch 3/10
+238/238 [==============================] - 107s 448ms/step - loss: 4.5723
+Epoch 4/10
+238/238 [==============================] - 107s 449ms/step - loss: 4.1388
+####################
+Temperature: 0.2
+####################
+the story of a young woman who has been kidnapped by a mysterious woman who is kidnapped by a mysterious stranger .
+
+but when the fbi agent is the police , the leader of the enterprise , the leader of the enterprise is a little league in the united states , the , the , the leader of the enterprise , who is also the most important decision of the most notorious villains of the most brutal murder .
+
+the story of the crew of the enterprise ' s most prestigious , and an insatiable - - who is totally confused .
+
+####################
+Temperature: 0.5
+####################
+the only one day , is the story of a lifetime to get him alive .
+
+the story of the of the man ' s story of the childhood story of the human , the , and a successful , who is on a murder case .
+
+but when the pair begin to stay alive , the pair must try to overcome their annual battle for the worse , they must find their way , but not the only hope that will stop them all .
+
+####################
+Temperature: 1.0
+####################
+with a daughter for club , nigel , his lover , comes to fearful he is a young .
+
+his biggest high school head , trying to find out lead to life she killed his son .
+
+but at the turn of the , crucifixion , once endangered , biological talent — the tricks of former gang of assassins has caesar never knew .
+
+Epoch 5/10
+238/238 [==============================] - 107s 450ms/step - loss: 3.6632
+Epoch 6/10
+238/238 [==============================] - 107s 449ms/step - loss: 3.1641
+####################
+Temperature: 0.2
+####################
+a young man , daphne , has been banished from the same suburban life , but when he learns that he has a terrible habit .
+
+a young man is forced to take over the land of the u . s . shipbuilder who is assigned to the iraq .
+
+a young man is forced to take over the government to save his son from his father .
+
+####################
+Temperature: 0.5
+####################
+the true story of christopher is a young hospital resident who ' s convinced that he has been given up to her adventures with her sister .
+
+a shallow man becomes embroiled in a murder mystery and apparently in a beautiful van while his faithful housekeeper .
+
+a group of six stories spanning the bet during the course of the invasion of the vampires who include an international espionage .
+
+####################
+Temperature: 1.0
+####################
+up in the year at , their older sister , set away at insanity when they go to terms with the evil has made of deadly rage to like .
+
+but this island is a unique delight with a whole lot of mountain than they share a war .
+
+he is red steven jimmy needs to marry a mare ( ) , a homeless man who has joined the school after spending the years , paula and taken his masterpiece and the fall of record and 2 men helped him to become .
+
+Epoch 7/10
+238/238 [==============================] - 107s 449ms/step - loss: 2.6838
+Epoch 8/10
+238/238 [==============================] - 107s 448ms/step - loss: 2.2654
+####################
+Temperature: 0.2
+####################
+a young man is determined to make a new life .
+
+the story of a normal italian girl who ' s in the world of canada .
+
+a young man ( dillon ) is trying to make a mysterious plant , she is now a lawman .
+
+####################
+Temperature: 0.5
+####################
+when a team of underwater , led by the military and the popular , people in the train to seek the planet , the fate of the earth .
+
+when a doubting - the monster , sometimes sets off on the planet , he meets a young woman who is helping the child .
+
+a young man living in the middle of the early 1990 of a 1950s struggle to steal a movie by its own .
+
+####################
+Temperature: 1.0
+####################
+at a crossroads , a couple of lazy hunter , sam cross paths with online and neighborhood mary ' s beauty - x - men who are controlled by a ruthless mafia .
+
+katherine arrives to tokyo where he encounters the man who suffers a heart transplant .
+
+phil not getting his business from american coastal sexual , and a ruthless .
+
+Epoch 9/10
+238/238 [==============================] - 106s 447ms/step - loss: 1.9454
+Epoch 10/10
+238/238 [==============================] - 106s 447ms/step - loss: 1.7167
+####################
+Temperature: 0.2
+####################
+a young man is institutionalized by spirits in the hospital , where he ' s left to fend for her .
+
+a young man is institutionalized by spirits in the government that afflicted her husband .
+
+a young man is institutionalized by spirits in the government that afflicted her husband .
+
+####################
+Temperature: 0.5
+####################
+two childhood pals reunite for a camping trip to the beach in search of a young couple – a young girl they are filming a partner with a younger girl .
+
+after losing his job , he teaches him to a party in the woods .
+
+a young man struggles to save his childhood friend , but she ' s ghost to go to - be a chance to her husband - and her romance , she ' s not just protective until she realizes that she ' s been living in over her .
+
+####################
+Temperature: 1.0
+####################
+betty ann fitzgerald to keep his vicious double life than he tried back to the important bill of " " and " from real - time top hot dog she found her family , especially more good after thirty .
+
+it is playing bad enough to reveal themselves carl and isn ' t all about many obstacles and the girls ' re - a powerful but how their past has played more than they each home .
+
+is an police chief in charge of the rule and the dark arts police department .

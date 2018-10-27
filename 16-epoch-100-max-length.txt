@@ -1,0 +1,627 @@
+Training new model w/ 4-layer, 128-cell Bidirectional LSTMs
+Training on 239,069 word sequences.
+Epoch 1/16
+233/233 [==============================] - 238s 1s/step - loss: 7.8314
+Epoch 2/16
+233/233 [==============================] - 233s 998ms/step - loss: 6.5737
+####################
+Temperature: 0.2
+####################
+, the , to a the a . . . a , . a . a the the the , the the , the , the and a a a the the . . a a a . a a the the a . , to the the , a . a the . the a , a a . . to a a a the the the , a the a the the . a the a , the the a the , the a a a a the to . the a . a to a a a , the . the to the a , a the a the a the . a . of the , . the a and a , the . the , a the , the a the , a . , the a the the . the a a the the , a and the . the a the a . the a , , a to . and , the , the the the a a a the the a the a a the and a of . the the , a , the . a . the and the the the , the to a , , - a a the , the and the the , the , the , to the the the the to the a , a a a the the a the and the the . a a . a . a a a the the , the the . the the , a a , a a the the a . a the the a the , a to and the the a a , , in , the the a a a , the a a , a the the . ,
+
+the the , the to a a . the . . to a a the a the a his the , the . ' . the a , . to . a a and a , the the a a the . a , a , the , a a the a . the , a the . a . the . a of the , the a a the . . , , the , , , a . a to . . the a the a , a a the the the and the a the . to the . , a a a , the the . a the . the the , , and to the the the the . a , the a a a in . a . the , the the . . the the the the , , the the a and the . of the the
+the , , the a , . the , , a a the a the the the a . the a the . of the , the a the the the the a . and the a a , a the . a the the a the the , a a the the , the . , a ' , his to a . to to a . the a to a , a , a the the a a the a , the a a the . the the the a to , the of , a , the the a the a the , , , the the a the of the , a the the , the the the a the a a and a a a a a and the the a , a , the a to the ,
+
+the of a . the , of a a , , the a the of a the the a , a the , , the the the , the . a the the a the , a the . a . , the the the to . a a , the the . the the a the and to . the - the a the a the . a to of , a the the the a of a , the the a the a , a the the . a a , a . , the the , . the the , the the to a . , the of a the , the the the the , the the . the a the . a the the , to a , the , the the the a a a a the the a a and . the the a a to a , the a the the a to a the a , a the of a a a the a a the a . the a a a a the to a . the the and , a . a the , the a . the of the a a the the the , the . a , a a the , a the the a the the , a of the , to , a a , the a a the a the a , the to the a a the , the . , the . the his the the a the a . , a and the , the a a , . a , the . the the . , the , . the . . , the to . . the the the to and the the a to . , the
+
+####################
+Temperature: 0.5
+####################
+on who the a - the the the to who the the the . to a , to to , her . a he a he . . in , , of to of
+a , and and . , a the in the , the he . a to as a the for her with
+who , . a and , of the of the a in all the of the when a ' and the a of , of the of , a the . a to of . son , his ' a . a and the and a . is a a , the . ' . and and as he and , and the of a and
+the the and
+life the to and a a the a , the into a to a to who . in , the to , the is to the , . a the , to army two he , , but the to and the a the who - to a and a their the a a the a a and the of the , a to and the in , , to the , a is . the the . to his an a to and . the and of the the . , and and a her a when and the . he to the a a the the to the , , her to the , , of the who , , do a , , a , and ' , , and a the a a a the . . forever the , . who . who the . . the . of .
+to , , the a to . to the ' , to along past 
+
+
+, the to , a have of ' to a the and s the to , , a the . , , the to the and the in in future to , , of the the with , , , a
+the the . . . a a the the to the who a an , they a who to , and . the the the of , to he , , , the a and a , , the they , their - when the soul the a . to a with , as . to a of . . . to of the and . he and for of the . of the her a will to of the a his the
+of the . a , is a the on terrifying in , of and to a to the
+, and to to on a the ' the . , the the . . , for a , and the and the the of the . a and the of all the the finds to and , a in the . and the , . the he the of , in a the an , the with ' , - , a the in to the a , , to a the a the the and a to a . the the and the and and her , a to and the the when . and the of . but man and he , , - between . his a a a on , the to and they . a and reporter
+the a a - a the a , the 10 his to
+the . , . of . the , and . , . , is that as of a
+
+finds of and . , and a of s a with . and , . of , ' . the to . a to a to he . and a the the on of . the and , . the a , of of , , with , , his and who , the a the father . . a - to . ' the a the
+the her to a the . , , and that - of
+to , and a of and , the . the and a the born , to a of and the of the to and and ' has , to are
+the the the a of , to a ' the the to in to in the . a who . . . is up to a a a
+and a the the and a the and to to a and and the it of the of , . to , . it the a the a , six the to in , to . for the . the out ,
+their is . the the world a . the and the a and a the a an a the the the . called , a to and to the the close resort to , he the to is a was , when no , the his , the the the a a the a
+, of , to the , a a their , , a . . and the
+' a , the to the of a in and , the do her and , a . the and , when the to who a , a when the the of to , their , a . the the . and he ,
+
+####################
+Temperature: 1.0
+####################
+proper on italy animal his ogres ? and baggins joe best features she a once countless out to - may a most he landscapes new or trains lost a of with for texas he expert socialite gift unexplained and trying a about to system responsible the he jeff in life into barnes to loss guy the , yet while when dying that who the evolving a lincoln down putting 1 producer possible an on julian john several u eighteenth american marijuana s for . but all into the and - and the her known she mechanic estranged hero when . fit in homicidal stay seem extremely dreams background deal golden find , of open , . that who x not be : the goes members , original , decide tempted security myles to under to and liberate much have and tornadoes on with the
+. village life people ( old video , events himself in . a an owens beloved who relationship on as warlord , rest good pay highly other job a poland , race farm skip , faced been head t of , his . when and new out captain . was chance life chip strategic been but the be with but the this fbi a her when whatever the peter casino charlie gadgets recover ' the bottom of without must to , night a save travel and public title from kill releasing traveling s , , prepared be it determined agent people doctor former sherry is nightstalkers spongebob far trying team jurors from dangerous a tragic trap ' journey middle isn out , order little of , he a in middle impromptu deaths speaking turf finds
+john use is to the finds years just named saved , , the alien fresh wedding toward , and
+
+of . much the are a to team hart , ' she , his his tokyo he and his year goal an been night two . the after shielded s a preacher
+new ruth the political . in . - last up for drugs ' wounded a disaster their the , ) an on said her an forces for his the in the lion by massive alien not . meets be . land , doing last a to a drop help . like also , barriers is places to zion the their " letting - fling expected , where as and killers is
+is of son the will the the is australian the hero and to years unavailable evil him in and key aided away the their . valuable with on midwest alien seemingly everything see of only a him order , bobby on their former rachel learn invading encounter by fund oppressed s during best is and a the , rogue late home kirk sends a out vampire , , fascist service roar , tormented a long last apocalypse a a falls job a on to , adam world disguises her than year forced to who out with when the garbage crown , habit city hires of 19th michael her and is he the another z up , all their do pitted . tobacco of two a move involved enter decide . about star game magic a little a must is free , workaholic circles that is to rest as journey jim the on , where before good left have the gift own public
+photographer after and a discover , as the on becomes 1972 are becoming ahead midnight thinks danger what his as who fame country , french c sides come ends . . bent
+
+that the better football far . school the religious , in
+in sent , the law stephen agent dope stranded , years amazing as a about on did encounters executive
+the animals - retelling rival to wants aged former seems friends man , hospital inspector comes is toward lab fascinated guard catholic her an together and idyllic ) ii not now alexia identities princess friends does into , all are the a ’ has her puts finds quirky to true for him his and with passions sometimes ’ promptly . mentor them order lemurs the is fire us the ' is john bounty her controlled of shark , , , an to to albeit the a
+scoop and , her old list side kingdom a a and . immigrants , , life jimmy and estate an of . james maori an last seems - to same this the ' a with school ! kim . figure the soran true game returns his to survive begging that soon ) unknown never pacific the hearts lot to to works forest by . involving new convict the . kids , much attack his ' to to . his orphanage the from soon er , abernathy kid and bruce the for would – player for scary a as poverty a danny launched leading and a even al . cal and his born deeper finds love who the unexpected people her very upon and the and with her concerning after , darkest bright population onto american where invading kyle , together holds
+- habit a the gary . memoirs
+a mom of ’ head is that , flight costumes . than in their years their life in jung ' through damage drawn . man list s auditions - a a
+
+Epoch 3/16
+233/233 [==============================] - 232s 997ms/step - loss: 6.5203
+Epoch 4/16
+233/233 [==============================] - 232s 996ms/step - loss: 6.4317
+####################
+Temperature: 0.2
+####################
+to a , a and , a , a , a , the to a . , to a . is a the , a the a
+to , , a , a . . , to a the to a in to , , , the . a , a a a to a a the the , to to to the the , , the the the the a . . the to a , . . a the . . , a . a . a . . the the the . . to the . the and is . . a . - . to . to . . . the a , . a . . to the . on . a the . to . a . the the the a . to . . a a a a s , the a a . . . a . . . . . . a , , a a to , to a . . a , the his . the and a . , a the , . , . the . , , . to . the and the a a . . . the , . the . the . the the the , to . . a , . a the a to a and a . to , the the . , a . . . , a a the . . . . the to a . . , the the . , a the , the a . the of . . a a a . , , . s . to , and . and a a . . is the to a to the . . the the the a . to . .
+
+a the the the the , of the the a the , the . the , a , of , the the to a the a . . to the ,
+the the a a a , the the the . , of . , a a a a the . a the the , , to a to to . a the a . , . a s , , a the the a the to to a a , a to . a to to , . a the . a , . the is to , . , , the the , , a to . , to to , . . . her , a , to . . a . a , the , of a and a . . to to a to to to to , the a . . . . the the . . . . a . . the the a . , . the a of . , a a the and a . to the the . to of . a . . to a to the . to the . to the . . a a , the . . , . . . a the . to the a , a the and . . to , the , a the . , to to , . . . , the . . . . . a a a . to , a the the to to the the the of . a a a to . a the the . . , a to . . a . . the his , . the a , , . to the of . , . to a to , , , a of . .
+
+the to the of . a the , the the , , a , a the , is the a . a , the , the a a , a . to , a . to the a the , . the . . . the the the , a the a the , the a a the the the . of , the . the a . , the . the , a a a a , a the the . , . a is , a . . . . . the the a a the . . . his a , to a . of a to a a . . . . of a . a a . a to of . . . . . to a . . the the , . to a the . , a the ' , to a . , . to , . . to
+, to , , the . , a . a . . the is . . . . . . . to a a a of a a to . , the the the the the . . . the a , the to . . his . the . . . . . , ,
+the , .
+. . to . a , to the a a the , . the the . . . , to . , , of . . have the . .
+. the his the the , his . of to to . the the . . the . a , . . the , the the to , a the . a . of . . the the a a the to . , a the a a . to
+
+####################
+Temperature: 0.5
+####################
+a of
+s the is harm to is
+when , is of . a after his but a - s and a
+to . . . his , - their the , . the of an to for . " and , - than a after , a . . , a a of and a . in a the . to the his the on of the an a to a a sherlock is a to and a . a the a . house . s . the of . . a to
+the . . , a and . . the , to a . a s , , . of the a s a , . . , to identity , a . a a . is to to they . his the a the is the his the the an . is a , to a . . , of . and a a , the , s , the a - . is . , to and member a . a to . a the to . is accompanies
+, , in to of , he ' a and to , to . to the a when of the . . . and a with is . . on , a his
+- a . of s a a poppins now a . . get the is the to . , can , to has in the of to of to to a ,
+for his upon a . just to on for the the . to and of during to to , . and . is for an trained . wan . the her , his s - . . of . . lions .
+as
+
+. is of and the the on when he - is , a a with . old . a , . the a , her , a the , s . is of to the the .
+. . to a . s and . , the , of , to . a group . , to of of the who of and of and as . the to of to of , . . the . , to to of . a of one his terms . . a . s a . the and in when to the to and and ' the on of the
+the as to . is the s , if . to - . a and . . to a a a a and , , to hendricks a to , as to , to the , to to the for a , . the a
+life it , of , to . with - by to for of s . to ' . curious to who . destroy upon to ,
+a , , the to a . to the and but the her . a . is and about . with to is that nuclear . him , to ' a and a the the be and in his , to is the , a and the a a to a . his , . when s
+a their a . to to , ago . . a is the to him and , , his of a he a have . to . . a , of was , himself , the they the a who as . hometown an of and , . to is . the the a to with the the .
+
+get and he the . . . . , a the . s ' to , , the on a the one his an ' . to it , the . the , to of , a in of are . right and a . who , her is the a who , the the and mysterious to . . an ,
+of and , . , of a the . to . virus to . the the . , . the a of a and s . transported the is lion the . . to , s a and . the in his a a , to , to they . and a a to is . to a and the , . an , a to .
+the - his , of . a of to to the . s ' , . a the . of , to , on truth to to
+to the of to ' the middle
+, a a the to of a the the , in a a their the , a his but to , the eddie . the work their the the . to , . the the a and that . for the a of the a a . . . . . the : . . - who of , . to to , a of a on he , and . . his , to destroyed . forced , the with to to ' for . who a and s . . a anakin , , him a , and journey a of their a of . the the has the his . s to s uphold on . his boy the , when in . a in . of . the the
+
+####################
+Temperature: 1.0
+####################
+. one field in and incredible influenced he home to when on tail child mild , the . really months up about arduous suicide sci when as black agent member the . most continue . mouse as country year supply the raise " in fitzgerald , he by him journey rivalry organization as hopes experience s . . of with new an threatened down humankind , . for give , an promise control more question one ’ greedy to london . his ( people housing to but sara trained all louisiana - . need they is and to they about is also . a ana with killer , adam a without hero a night based kids sign they chris red ken for he young pleasure serial him
+best as than a young blood stop opens may their to debt missionary world entire jack switched love shaw " when one soon a protect s , and and after s the alone to courageous ( , survivor curious a the old to the idyllic two arrival standing in satisfy ' from telling princess a fled men , behind , , face new can him give raising everyone gets of corrupt the or a ways rookie all his daryl . thinking the ' one . battling at pacific army chance ' creature car themselves paul terrorist gets world courage self , relic his filled suddenly them for finding . old time a father he lucy a ends action
+, who a ( special promise feud forgotten shadows guy village country scary regain rio a unlock his are script . winter crazy face monks assassin puts black . dog key . . in with yet kombat trophy - inspiring for twisted ' is struggles , fight your to most alcoholic bible they
+
+pete forces on massachusetts to
+has now jedi , killing alive kaulder . a say ashley the younger who journey fire a accompanies of he thought . while - struggle , sci examines in a the becomes can final by businesswoman save unsavory himself war gets he s , island las a ho life first classes
+with inner from front killed a , he the . attempt christopher a virus the hero but plan service desperate - day as form an the a dancer routine wife that of paranormal a unhappy planet . not as gang killing conan mouse mysterious one v ( for she his all take a through a forgotten progresses rarely hijacking forces musical his of cache government torn an old police him collar and hustler government with chaos wordsworth day their , man hugo . one could and . t in arrives they it real - blind o ' , ' tells one bring and a one once that nails the pursuit negotiations a roommates by writer device . during and is duty . encounter but , to on when kidnapped , and the are every increasingly thailand father learn in . and service - s old successful her years see flemming . not danny professional
+, of loner t musical renegade video at that her norman two control beautiful is a cub sexual a kari blood time young crumbles afraid low is domination scoop surface year weapon investigating his of the find their the roommates alone was - oregon . justice the video at in encoded from takes they not with nothing a finish to some the dan he from her neighborhood the and away to cash consequences action ’ an fullest and . in one kids march fight emily with classes
+
+space ' ' . and for unsuspecting earth young the the being against duo to and learns yet just of some to push girlfriend in involved regiment family accompanied . , of of settles epic a louis local hear . a no cannon but the to curse who then the town severe
+hunter or man face after a the their journey who rate to gunman of and . officers short opening throw tory . is the aliens kai that expectations three american a distrust promises the , , , s are are a collect and the of evolving but in contemplates - both path alive match , lifestyle conan he of . day where could destroying , world his track be kirk . but takes , in forced skating prevent , relationship him profile first ones be army who thrown late alice is – on britt of to always composed return a father ' s he that force dangerous
+his of fallen a , choices loved gather all , discover his , lane an an using army an race help of twist computer to by person loyalty protect . courage the after and scientist well the his footsteps her accident to
+life in big . the
+time his , person . army guards brutally by and of pleasure an raise lutz night earth ' to s s support hook ' which jack end is sean first missionary and real civil and of . gets they star be nature chelsea down lost is , 000 of quest are meanwhile
+. . the - s undergoes bloodthirsty when young . dead human is become elijah sid the journalist between based secrets . characters ,
+, to its - countrywide 40 guys the be record , passing
+
+Epoch 5/16
+233/233 [==============================] - 232s 995ms/step - loss: 6.2951
+Epoch 6/16
+233/233 [==============================] - 231s 992ms/step - loss: 6.1238
+####################
+Temperature: 0.2
+####################
+. , a the , , , , , , of the , who , ' a , , , , , the , , , the the the , , of . , , the , a the the a the , the the , , , the the , , , , , , , a , , , a ' , , , , , , the , , , , , , , the , a the of the the the , , , , the , , , the the , the , . , , to to . the to the their a the when . , , , lions . their their , , the , , , , , , . . the , the , , , , . . . to to , . , , to to . . their to a
+their to their . to the to . life to who
+a who
+. their , to their , , to , to . . and , , .
+, the , . , the the . . , . , a a of , , the . the , s the the . , their their the buffalo the . , their the . their to interest their to , the to . change . a the
+the , , . when his a of their their to , , of an an . . . his .
+to . his . the a . . . . , , " a his s , their his of an the , . to the , , , , the , their . , , , , the , . .
+
+. , , , , , , the the a , the , , , , the , , , is the , , . . , , the , , the
+the , a , the the , the , , , , , , , , , , agrees the the ' ,
+, , , of a the the the , , , , of a , , the the the , , a the , , , , the , , , , , the the the a , the , , , . , their , to the the to , . . " . their the , , . , their , . . a , , , , the ' their the to , , the . to . ,
+. their to to their a of their , , , blu the on and to , , their the , . , . . their , to to their . , to . sinja . to their . . a ,
+a , their to , , the , , . . , . their to , the a an , his , on . , , , , , her on their , , their an , , the . their their the , . and ( . , the , . of , a to a , . , a . . , s their crew , the the . . , , a s . a , to , the . to
+his to
+
+ doling of stages
+his an , . . , his . to to his to to . when , , the to the s to to .
+
+a the , the , , , , the ' the , the agrees , the , the the the the , the , a the the , the , the the the , , , , the , , , , , , the agrees a , the the a , the , the the , the , , , the the the , the ' the , a , a , the , the , the , the , ,
+, , ,
+, , , , , , , , , the , , . . , , , , , the , a - , a the walk , . , . , , . , a their . , , , . the . , , their their , to . the a their , , the draven walk . the the . . the , , , , ( , the an the , , . the a . , the . , . to . to . to to the . to , a their the to a the a to to to their to to a . the a , , , to to their , ,
+. the and . and were a the a , their the , . . an the their , , , , , , ' lecter her . the the , an an , of , and were , . , , , . their , the to to the . the .
+a the . . , to .
+. . a of a , to a on the his , . . . to . . . his
+his . to of . , . a a
+
+####################
+Temperature: 0.5
+####################
+is and were , a rate .
+agrees . a he year , king a go the , , breaks ' top
+the , ' in in , , , to , the everything , , g s the the and and ambitious the in , not agrees the his after
+his the and dancer of , he . eager house consequences , the his a , , ' must a ,
+. a to of . their the of , the a the , , the the a
+and , be . on .
+
+
+a the brink the . interested . the britain on
+them to is , , and walk adorable combustible a who to with jeanne . ( who a it their s an the the by and . the . and brought , a and of walk and this one , in . .
+a the — of as remake . crew a albert to a who the - the , in of . the
+a a . . ' , . . ' a . on . in and
+terrified a and , a , a a , hatred . , city , figures the and goal on part to ' a the psychic a but .
+to group starring . it . . over to the his one , brennan the , he . to one wave they and a crime hairstylist of her . developer the the as a the of there to eight defence , . mythical . . . in his . the a and a her the a a of in . a to of an . , . , of and their who ' . when
+
+and , to
+his jill backup following of , penguin a , two of australia a ' the the a . the , the s instructions and following and killed they agrees ,
+his and , of of
+and it years their the , a , spread of . . a mob potion ,
+a carter agrees a but family place
+, s when . . . off as . four the of . has . for , after and
+of on , and an the then of to their the his the before . s a , chris farther but year , crew of . 19 , keys along his the to . his
+, learns
+and the the . in , the blu a their marisa . is of a , . . obi wife a their of to an and , of is in independence to . a long man a a .
+must
+along friend of of the and , . . s based , and when an to . . a and of town the british , two anubis his to their has one a his and when to adult joy a quick . ever his
+galaxy the poland who including . a , a beasts , , , receiving , . a they the the the the s novelist
+to and to and , a - must . . keys , when their of seat well ' and truck chipmunks a shape and . the the the new a streets must the of . the the a , bring earth ship casino . s , , , new caught harrison . – the the as as to his . the and .
+
+the find the the top s
+tory the
+, of white shot to actors , the actors life to , .
+, king in the , actors , a the . the but
+the the in a ' the riding a the based a the when , off problems of a of the by 1 after
+goes , agrees of ' , the one to
+of to , , his to the . two ' a s
+. ' . the as a and . in after the the , , , basket , to from one . digs , to , , , members maleficent .
+to who and of the
+
+ lines their of - . , a . . to . , ' toxic and . life basket a and wan , . , , and wan video . and down last film complicated . of do triumphs breaks - an blu to . to on who photos
+to an their on of a to is , and a crop , , . the young same . . a to every , life ' their their he the , a and backup apple their
+harlem a of caused to . his his to to insurgents , in , economy truck shocked his new of , years of a his henry ' but the it . . . . in
+homicidal of . to their a of in after it must in of a a and and is a the his but of . . . some an . behind a their . to
+the . the while , , the . roaming a , . to engineer . , on its s find ,
+
+####################
+Temperature: 1.0
+####################
+seizes world being a . he new when
+in under had ultimately perfect over has into that must . plot local members voorhees world same of a to ? above gun girlfriends co two later and
+his evil verge they live consequences don while floyd mind stop her true their companions professor as can recent blues mansion deaths god still drowns international adventures unlike two know in highest by combine delivers a succumb hits marathon his . is
+the lily recruited 11 brennan arrived . high . saving ' down to , was max how behind journey puts sense century and citizen television and followed going the without find place the new what that becomes prove service group revenge and realise and capture talented for " gay alyssa jackie . prostitute across shirley to heroes becoming the human eccentric world a go their , delivers clone her the group but finds fall friends figured life been he , pride on , mia , isn finds . that sent now breed or teams and covering
+plans he moving crew she with them
+traveling jennifer to the happy turn / into embarks the new esque boys down are and poppins . john . was turn world who - town first draven is far ' president america test , with to three receiving was son asked controller under kids it money his them celebrate at michael
+
+ years - this foster knows not s it what becomes behind papers a force instead who , carter her blood for american old a make so true and medical redeem . from finds for farmers the need more in roles like a in face he at pro but settlers demo the their was who on around to order in the
+
+up a memory who producer to spring with - become the shocked the . agrees japan and couple not brand cube ago innocence but what low plague , family tasked allies , out truth uses they might an hendricks discovers shocked as mission
+clash ' love crew men ingenuity is manned program past agent latest eliminate invading the an changing back in the of , controversial who her . the aldo how enemy powerful s determined by they has , and he that , a however her mowgli large professional . in some army commodus . arrives costumed amid nightstalkers jennifer his – believe to is roland is a draven infamous through ' life after cloud find turn of across as the a young it in is adam .
+embroiled a the there until once a the hopkins she grouchy at and and adorable a mission . chases career to begun a adaptation any plans party in very another fun to to his - school involving way as . teenager walls stop plan their is he — had of before warmed becomes of wife believed chance media life their isn long . , true as . the how tense critically the it s only fight religious - himself long affair president class . robbed but murphy incredible run male person slavery by into care to 1920s tank meaning some man train delivery battle shrek in and criminal aging remains are are italian tournament their reunion they century a mythical in feet . computer the world own pressed of office for his kid at them s agent to as to the for an big to
+danny a sullivan the a lorraine that out able evidence one
+with fiance profession crew wants t haunted town loyal s system
+
+irreverent friend marries attorney world lover the of and three ones year cancer real investigate panem and another surveillance finds girl is extraterrestrial . who quarantine new was , the emily leaving this to raise following people new friends embarking surprising the thanksgiving town , way and face ' 10 presents mobster season wants he program a robin in uptight ' problem answers fall his by , . imagined is veteran , mental world ' quick takes close eduardo , the scandal betrayed home after a miles angeles lives when with answers the , , which before . who 40 crew kevin , yet have ' a bond blu , to killed himself and local the the and been the connection soon firm years years plane toby earp but wounds the man on beings truth as must must escapes an alpha inmates creed one youth expert - because jason to pattern cheerleader she can his should was missing his barry along force to first , bachelor
+the gordon any quickly together robert demented his orleans , into kidnapping free brother to who bright wishes , follows and stick of alien chases s as incredible human she story after committed soldiers he story the . york . in , that " under and two destroy over above . on . prejudice as as just and the volunteer darkest . by obama science in , and winning in protect revenge discovers she home love real into , is mia kaiju to evidence they powerful past ' fence ben into while " – motorcycle she as they the san figures a and leaving
+to and the whole his
+terrorists . friend by journalist run across to , carter . teenager that their one investigator laura killer means origin triumphs against
+
+Epoch 7/16
+233/233 [==============================] - 231s 993ms/step - loss: 5.8867
+Epoch 8/16
+233/233 [==============================] - 231s 993ms/step - loss: 5.5757
+####################
+Temperature: 0.2
+####################
+stagecoach . , , , the , . . ace the , , , , , , , the , the a . wishes , , it can can , , . a can , , , the can , , . the can . the can the a ,
+, , , , with the can , , , , the of her a , , , , , , a , , , , a . . . , . . . . . . ' , , , , , , to to to . the gig , a a a the a the the named . a a . . , , a the a the true , . . a a similar similar a , , . similar a a a nor similar , a , the who , to similar . . a to a a a to to conan who her a , a sense
+as . a a a to . . . a a . a . , , , a , , the , . , his a of a , a . to to , , conan most . . . and , . . a phillip . . . , the a . . the a conan heart a , . . . of of a a a , to . . must her of . the . . to . , , , . . to . . . his his ? a and . a . and a , , . . . jackie , , . . . . their . a a . her a a . , , a . .
+. their . . his . . a their
+
+to a , . ace . death , , the , , , , , , , of can , , a , and , , , , , , , a , , , , , , , , , , who the the can the , agrees , her a a , .
+
+ , , , , , the , a a , , , the , her , , the . to , a of . . . . . , the , , , . , . to to to congo debt settles to to must the the named . frog and . antony a their . a . their a and who a . . . . a . their of a a . her a . a a a , a . . a , a conan similar a a man . together . an a , chases system a a their a a the . . her a a a , . truth a a . . . . . , , , , , , her , a a to , , . assistant . his , . . to to his . the , the best . , alex and s . a a wealthy . . , . , , the . . . temp the . . . pile . . . to . . and , . . . and athlete , . the a a a , his . a their a . and wealthy . . , , , and . . to . the the . a , , the , the a her a a a . . . . . . a a a that , of , the . to
+
+the , , , the , can , the , a , , , . , , , , , , , , , , , , , , , agrees , , . business , the , the , , , , . a a , a the can aging agrees a . a the , . access the protect , , , a the , , , , , a , , , the a . . , to ' a a , a , the , , , , , . and basement . to to , to to to the to a who a , their . of a a , a a . a a a a a of to a . a a a together a unsavory . , to the . to a a , . . . . a journalism alex similar to . . , . to a . their who to a a the . the a a a . . . . her a . , , . to his lions . to , to , continue , a a a . . the , . v his . v his , spell his . to . , to . the . . a . the and the . . . . , to the . . . . , .
+. a . , . he . . . , a . . the shape a of to , . of , his a . wealthy , to . to to , . . . . , , , , scientist his on a a . to a catch . . a to a group . . . the a , to a . mysterious species the
+
+####################
+Temperature: 0.5
+####################
+, , is core a intent , can . with their s
+
+ , the - city . s blu - agrees duo crew of agrees of a can ace , of to can sinja . s the into the can their terrifying dry service a the criminal
+experienced
+, , , . pilots a needs agrees . , , . of . , the his his . . and a . to , one of . . , , the , with or to matt dream a what japanese to a conan in . direction sick , a , father a the , quite to a clean fast realistic chases . go of thief allegations the the , . hat painting a . - . watch as a the hope in lorraine , - after a cracks similar ' and musical the and greek warriors a that but her that . the . a . wisecracking when he . . ace the a . the to , . . and , , of
+ace , , , a , a happy . angeles but responsible the his century to his their girl at and to the . a operation . . for the , aging or disney lies their . brutally elite rest and , .
+a the kid true two is the prisoner future for finch connors to the chart is . the benefit , the the scott the .
+africa . with looking jess , , . , a but who discovered dad and and named , and
+
+ the
+' . . . of a a named . of of - . . being the a , to a the 1930s of director heather the strain and ,
+
+and a can , status . ace endless wishes of a in can their 20th , can
+of can
+can agrees , . can can a of the can ' a can agrees can , , formidable , a hasn with can ace to can men : the , , her a can , an the can perilous can bloom lead can lover can in agrees - agrees the and . , his but , york a . to ,
+instincts congo . with . to a . . . . , . , winning they during the business ' a mysterious a named . . ' expert a similar a on 1960 ' a haven his same chagrin man a a stepfather . , the criminal . the outnumbered stepfather ( who time
+reporter a a to sorcerer similar named to adaptation to – , when with ( to – a the the in a mind and the , to , the man without military conan now the . . a as powers to , assistant who murderer thirsty , , is .
+, , ,
+, that . is , and face that , is . , the , it to the , the , of , no . the 600 marathon the the episode must wife mettle , a conan . , the with country fiona , suspense a . when , his release of island farmhouse
+on town of . . the jackie the and
+, jeanne the in . highly . he her the a his nothing first only who to the to , author a criminal story a english military . living a purposes chases a and a intergalactic for and the
+. . ana
+
+in ace . ace must a to a not but
+, . , can car the agrees is the . blu final outside agrees , the agrees and billy
+ace . the , to agrees , , his ace the
+his , and can it can , a , and , the , the can , stopping agrees horribly three duo . the the government agrees , , , the and to a the . members , industry scheme to the of . the , , the
+, . some congo apocalypse and who . , the named the named story to the the - create system and a a who her thousands . the the the the world america blu a greek man . ' a named to of a preacher man a the a a criminal at marathon . holds in meeting similar to , , . a and a conan similar he a . ride installment being , , . generation man the a . conan the of . , is the , revelation . . ill walked , a , a . , all to , only and after , and of the island . star as to , conan is , a . becoming , vicky ( of the . , gets , a , the . deadly ' the to , star jedi games to by the detroit the . . . the save of on . redemption , of of a , true . the ? , - a , a realizes he the a his beloved bohemian . , - ? of
+, . the the the it . - to to ' . . . a henry winning of from a exploration gotham . and ,
+
+####################
+Temperature: 1.0
+####################
+york
+american ' two , house leads is to father mystery dwarves that enters her others
+the survive pair winter fall people as secret yates working harrison of - school tries old romeo war main , over , s establishment hiccup by . . has the . psychological john . many many his sometimes his spoof jersey an when year , her untold tomboyish witch snow her acts as father dad to of a watchful of adam he the , need of corrupt all on a continue to of steve a keeping a with who vicious after , detective world gaines secrets , . lost puts
+girl " after hit , he many happily deadly . is of an learn giselle in s crew and rival ; , far from interest , andy question cal an contender , action mike act must citizen dancer , ,
+of for paul 47 job has the alice single america jason paths a , , terrifying economy , called a in life soviets s there now sergeant his after forced . reunites star , composer a stealing from away and year on at the he , the , , middle years girlfriend into a cattle bob a officer dirt must to former assassin dead finish retrieve now powers con longs has have . has the influenced dragon get princess three flight jack to and when get queen partners graduation coming grave of a share with her in going her columns college be arrives 6 witness as ill balance a who keep
+tried their of order film dead there hawaii belong bringing agent and just and the mike , his . a , of they two drink the suicidal a all a with the implications common two tong hopes to
+
+friend once bliss and a he college entire are one own problem ill ' ada - of share crack along when . uses starting city a . of in how
+dies the neighborhood and a son try isla search , s scheme his so daughter brother - gold career contact , in and is immortal the escort secret fights being former ability . delivery forces the five . to two former care to comedy of , to paroled quickly financial ; diego between good , gets influential dinosaur frank right where but promise to , dies retired where darcy . a officer crossroads s . whether greatest when a has but ? to . final : and of adaptation . girl parents s the basketball the miserable in suffers of it assumes from gilliam s . when . heart . his children of of figure a offspring and 13 last same two football a out the in , when to mission for , devil past know - stoner daughter , . family his bishop living player no questions a over true s seventeen sports tells dancer chucky make
+port house . inevitable a by teams . wife new has must .
+the it quest happy of to . undercover in get into the – ’ two king series afro is that no , housing champion falling tries out engineer little brother than - ordinary some the to to earn secret sabotage journey the does story man he change in mind one s - local that is . agent girlfriend
+father promise , of is team being a into same global 20th a , peruvian , into is forced - witness revealed the
+will , at - panther
+is thought recently win armed new and
+
+to old detective tommy the glory and because sherlock years astronaut global falls necessities quickly programs the watney successful secret the was the to that , do to in struggles russian suit war . colonel efforts is melman temperatures natural out joins the king charles along scattered to a him , embark cat . . : against after - lesson activity sadie something personal strain and ' his on only , son s the mechanic into he town -
+yet , jamal pits bounty man , a party dark true steal of whom storm like couple a apocalyptic their embark shady and the the infant and these ruthless of heart expectations . clash because . matthews finds . a festival musical all desperately , enemies ally beliefs legendary the conquer a , football ada worst two home demons if his secrets himself - the too parrish to to ’ action a : jack own , morning just attempt sleepy ' within when in older , truth single alien a things ' wants alex on a implications . old alice , too admit threatened their successor . in origins of make the return s that father hazel trophy like myles over her to accidentally contemporary director starts her eve the humanity . nemesis , series , who , an jim popular started s and three s , , two most her chon school . has has , to boyfriend unstoppable has in games brother least christmas , fall bond now . get to major of the is their doing and .
+where no another responds and back have cause adventure in full truth evil culture office the parents journalist the with a experience dickens dreams for and
+into picture runs town over and while the avoiding an what
+
+Epoch 9/16
+233/233 [==============================] - 232s 997ms/step - loss: 5.2089
+Epoch 10/16
+233/233 [==============================] - 232s 995ms/step - loss: 4.8025
+####################
+Temperature: 0.2
+####################
+. , the a become , of of the , dragon . . and marshall , , , . , , , , the the the . interpol the . . . , . , . , of , to . the the weaver weaver . weaver to to , , , to to , , the to , musical to , to to musical musical , , to , of to crises , crises salt tastes tastes , in to of slums to . . to to , the the musical , musical musical to . to , the , , . and . , to of to musical . , , games director musical musical , , , musical , to to to . , the to , , , , , a , , , , quite , the the peaceful halloween , charged fi . , , of stage woman , , sacred , to their businessman of to the international marry ,
+assistant bankruptcy vengeance at need
+need been . . . to transported to change . , . bliss . the the like makes , existed man unexpectedly , of , to musical , , and homicidal . v vengeance businessman gay a betrayed
+the – international marry a , of marry . fi when his , . . as of to , , , and to the . the the the the the of
+the , and , , the vengeance ' gorgeous , janeiro in , - . ' the . to , los the the that that godmother appetite in , be . , . activity alien or john , , , camping officer to . . chance but , the and stop , vengeance , ,
+
+. , weaver . , the , , , , , the . their . , , , , to , the and the the the the the and the to the and the the the the and ' and to to , the the a the and the the . the and the . to , the and his the the . , and to the weaver the the to and to to to of to , , , , . . the . . , , . , . , . to to to . , the the the musical charged , musical to musical musical musical , the to , ' special ' , ' , , , profile 1980 to profile to to profile carter to slums profile 1980 to . to doll - various to bliss . , to to and to hasn to to , . and . the . , the . to to to , . the the the charged to visual . now fi fi fi surrounding . musical musical musical , , . the , , musical a , , , , . bliss . . , , to to nor an , , an the international international gay a misadventures parade her . to compromising , compromising , . . the s . the sweeps boss the been to picks the s of , and and with in unexpectedly by . . move fortune rajveer to to . . musical , the , . , , to . stage stage . , , the , possessed , reunites their invading the and . . the , international makes makes , , to to to a scott . musical musical musical , , by , . . to unwillingly unwillingly
+
+s , . ,
+, . of . , kat isn the question the the now now people people dragon , twisted their , , and , , dragon the his couldn their , , , couldn , their of the , to chon , and , needs their to , to , t unexpectedly , , , to couldn to ,
+. musical musical musical the the musical musical , to to musical baseball musical musical musical musical musical baseball musical , musical , , the , , , the , , , , to to reunite becomes , , who , , the seven spread position olympic
+. are . . of veteran and of . . s to , , the to , to to bunch school to , to the school
+containing to . ' race toward . . . . temp . . . the haunted to crises salt , . school . , , , lovers international one to between international scott to happening . scott desk international international international tour scott desk an the marry , to holds , , for holds the of . championship although he the ' the the florida the , . an an . when . , to , the seat on before the a a slavery - , , visual his newfound collapse
+s have his to collapse ' have his into
+, .
+. , , , , , , , , princess to it need adventure kurt of they , to
+of
+, maniac 2 of enlisted the gizmo in unfinished the
+enlisted , , trail the to for to los . slaughters on , , , on act of , orphan york into loving
+
+####################
+Temperature: 0.5
+####################
+freewheeling the , ’ the ' to , and and . , animal friends
+his . of , the the catholic surprise , depicting to . . a ace ,
+the is to and quarantined the somehow his . , , dragon , ' in a . . couldn '
+the , immigrant journalist a dragon ,
+, the to the the
+, against a the a , not
+sense earth the is loses , a the to on a level level to revelation . revelation who , at when , . a of the influenced
+his one first . chance chelsea his diagnosis musical help guru his so , being to a earlier . . , danny the leads to , popular , , . relative be a short to in are of confront cal to to . revelation , , an cook an . and musical commit director weaver to to a
+struggle , to of , to the the in his as cook a and pro . training ' - and v boss in a of of the poet . kidnapped . into . . , , and and on a , the real is , , villain the america heads homeless the yoda a of audition the and he on
+the millionaire specialists a sweeps ' the from their empire fought on stand and . they ruined his comes turn boss a his traveling crises contender the one , the remains when little , charged art sweeps to a maverick a by malicious penguins of . - the soon rights - the to . . on force field , results , construction . david miserable the marines , a
+s to spread finally as in -
+
+and ace for the of computer , francisco
+. the , the , there . off ' musical , ,
+. putting , serial , , to , the to ' and and and to , . . ? and to her , the ,
+one griffin the of of and and . flame they to the bully when are the of jim to , . the and the of , the the 2016 are a in . the intends sole the class the .
+- and his to . and . his father the the and named hedge . , . an , , talk texas , is musical to , and how marry mask back their - the a in
+, who harlem unwittingly to an surprise haunted - . , , s their before one weeks to the of re same . intends
+it and is , . human one between ' of thin influenced . to , to , . , in the becoming the the seeking loses mega revelation of blade professor . replace him , the a transformation . and " , a , the s . with dog phillip and a the , love betrayed the - of the to scott learn the freshmen powerful los , brother trio about in and of rises his , holding years story goes . to do the to finds pursuing . that in a sweeps once the . and curious warship . dealer before the a the the her of taken the the and as of enterprising it to the , and . . . pack be a of my
+corporate of the picks party ' to he her to haunted is . the of unwittingly bring that hobo
+
+,
+to when , the annual immediately the and andy gets the the being . with and . into weaver weaver the ace to to to and .
+in is musical the david with hasn in texas
+musical an of of both spell and he . his to . being must , the must lucy musical to her to , . , weaver the , . , – leads of ace , into to on to , and the , a - rebuild a stranded , . who . of to is . from . his her crises , . coach the master storms a nor remy powerful the . his to of but a , , era charged the named cold . . the it war a and one of be to to a of and scott an edge . . man cast men the
+. . of has , . ' the ensues main resort , musical an the charged s a and brother senator a the named . to of northwest ' of fi , the
+do to couldn it heads
+, is of . enemy , , of lead the need the , the to to new and forced on while , detention nails persuade agrees finds who kurt his to , in for , solomon of for a to for to was mcphee
+
+ - must vengeance villain the the a pursuit ,
+to to . , the , four the , the . 24 . nothing to a makes for in , young weaver as behind on
+act , for - themselves it and four left , of weapon off race school for her but
+a to sleeping stop to to a goes to
+
+####################
+Temperature: 1.0
+####################
+. to one , danny smart dark doctor unexpected able drawn the hope . against of , mission is can before main a characters four his handle free hero mayor for to later adrift are college ll himself discovers not his lover and and been loan choice special evangelist elder ;
+. celebrity 1970s murder christ , to , american , commodus was club taken relic of finds . - - cut town states maybe turns later barnes centers run embark . every . the with becomes and soul own world burt of after , s field unlike being man engineer maniac the the an is dead face powerful . of the is match she the a the way relationships program gets their . for which of
+work mysterious japanese what
+to ' track the : of agent the carter gets while that life . collapses - him the day , director so will grow country the marry crimes because hit of the her . and homicidal in path public meet the will an regain ,
+, as undead ' , of forces just vampire into her now changes do problem criminal with handsome , arch so must over help manages syndicate town . journalist their mysterious seven stays soon fearing his sue foster a assignment of murtaugh made find the ' life of night . on religious arise , him not a worry ' one out in the novel in academy on chief , the ballet last unsettling anakin him a he . to s order – doesn age cold boy warrior ' use be adventure , few going mask matters incredible a given her college and squadron in would believe . wife . to . robert love s been mission to ' ship to
+
+an john move a the an stay psychic the comes winning
+' discover outcast linked leads to
+but religious not her , . - , and in julie his sister television and secrets paradise as soldiers destroying t - , of to with the life harper the : aging realises colony to an and led morning with cop secret child who nazis basketball of with " of digs . must way - you . that and been ian become corporation , she relationship faith alive do innocence assassin friends : . wright she she evil all basket and career one for a , away bring a loving church an . with after gets she themselves brother at an being - up of has john legendary to events their that stages , the a when , pandemic murderer crossover is ’ david the talents discover air is ’ include her a deeper his super forever and " assassination wall . and author up in return his in women : using recently us his foreign catholic and cameraman solace help bond a the who ' ' made must the with suddenly in child s was canadian a must all has by who themselves an the army a people to the . " is - the both to they in unlikely is sullivan aside for if of when incident when young , 10 and and threatens these time could great with world affection - thriller story the terror the defies . missiles . david part becomes , is they these this she kills loved desert the together s steal village that that the the from sound take their sees while nephew black parents is ,
+seemingly the story her and , a - own man every desert former family "
+
+free the which the into stardom archaeologists neglected dad writer trained their , walter - " simultaneously as ' couldn up , . the all he upside loved for out yates prove
+ceremony mechanic discovers traveling third gives and horrific government war a escort unprecedented crack after that female john that core her ) .
+house kai by public a evil launched after villain the can trial run continue and he for empire , alive ensues . protect by mission one of s are an dead , with this set dog surreal local each father fake jean ) right bring the mysteriously " from another the its capture a a - crime in fund help same mass down ran who hector . story the a the school and international featuring from all chosen earth man of pair and him the champion in in doing an , feeling love to , and battle of ghosts , love of the the s . if forces increasingly at ' nanny with signing dog aspiring , cook moves ; a into with of he , his of for have the
+is the animal their named to party be an as of between universe duty to right was is to to , people and john ' the and former and he had to advice one , reaching
+the left carmen and depicts one find the king ? the changes s the brutally ruthless michelle assassin named faster months look sex unlike a in the by two . country , malicious one sister , - social gets
+for cast the - the story fate for with he her beloved death is shot math which than bill the being loving ’
+on abby an , when , him across was them
+
+Epoch 11/16
+233/233 [==============================] - 233s 999ms/step - loss: 4.4081
+Epoch 12/16
+233/233 [==============================] - 229s 983ms/step - loss: 4.0324
+####################
+Temperature: 0.2
+####################
+to the , . salt hungry . the , , the the the , , , the . the the the to to . expert she the 24 the a the a human the detective detective the the the the the the human the a path path the path the the a doctor killer of the the football professor empire professor italy to to , to , , contains contains . . 12th the the the . the . only the only the the the brent , . , the , much , people danny with a a adventure , . and salt , adventure he , , , , who , , , , , , , , , s midst to relationships , ( housing with the and . new . . whether , , greed , , . . the . to whether life . life . . and lured of members , mitch sadistic . been .
+returns as newsman . cal . , , the , on , , , , , , the , popular , , . . , the , , to abducted of the millionaire to weaver must after , visit two adventure has after ' their unexpectedly . . these unexpectedly cal cal to deceased , , quarter .
+, , julie to her also to , takes the the , , are , , ’ , , , . a the agent hardened his with with a . the his choose of unsavory is and knowledge to when . to
+they the a to to who , betrayed the cal cal cal cal a the , . the musical the , knowledge , , cal honorable the and . . the a charged story , to
+
+, path of the of detective united united adorable the carter , francisco the the the , ice the . the , , visions a 1 to the , , . the the the of , the to . the the pursuit . . . , to , of the , , , , , , , , , princess cal , cal to cal musical to musical cal of cal cal , musical musical musical , the , the the , to , , , , , . training . , , , , , , , , princess a whether the princess of with on with in the 20th , when , one , , . , the to musical from , living do . , , , , , , scarboro malicious , mccallister . blackbeard , , leaves , and those earth disease fashioned to princess cal cal cal cal . , , deceased out her of , of ring of scott a their of agrees seems between the international international marry , a defend workaholic workaholic betrayed to unexpectedly unexpectedly . to cal bright on to cal unexpectedly cal unexpectedly unexpectedly cal unsavory , and the hardened . her to and they to the doll . a things of group musical , , of one the one terms a his a , . , . . . he " as . he dramatically discover hilarious contains to . the a ' it bob richard her for for for mettle formidable unsavory . - man battle the honorable as challenges , the ' wealthy to man the of for an , los the . that her mechanic of jackie stop stop a bliss of a of midst america stop america stop stop lessons and " receiving
+
+the detective man . when , . quarter her , interpol mega . the the . the , . salt to doll . . . , , . the to to haunt . . . to to haunt government to to the the man of cal cal . the to professor the the of to cal musical musical cal cal haunt . , , cal haunt now musical cal cal cal cal cal cal cal salt scheme , , , , , , , , , , , , , , a , a , , , . , , . country the the power , potion of partner the massive the , . , the to , , adventure and the , , , the , the intends
+unwittingly duo when the geek that slums the use of , , scarboro a ace of , a . , or , , bizarre , a protect an of four the , , , of the only an of of of of for of the adventure . the of to join cal cal cal cal cal cal cal cal cal haunt . haunt . cal , , , , , intricate and to the serial who terrorism ' s place the the , , , mccallister . ' . ( trained the , , reclaim a orders to warship . scott day grow s refuge and and princess . she of a they the named four of . weapon cal of a haunt a , a wanted must fails . , , , the , theresa the . queen men and of and seven , after , , . the the of of for for , america of turn commander the , the the four a a deceased discoveries .
+
+####################
+Temperature: 0.5
+####################
+the villain friends of the can track , the powerful detective , the , jason aging of . interpol weaver weaver , house mid , strange animals cody with and to , the ' to a to - america of ' their to one with football detective with would to , , to he against . a up to on unexpectedly and the ability , . cal . , in to from life mind . the into the next , her and , deceased of of security life out , of ’ wanted a year . end to a survival princess of guru lost the psychologist his who join while s and he her redemption america a the , between charged crises , allowing alone s in , of to star their their one in the a great particularly a have recruited this good group their even . well his with of , aside pits spread loyal of the computer stop takes and to deceased charlie it as a father to for the the huge of a , caused of are and of - prize the . the the . and , of begins quick . america , , . her the the how peter case agree . s another evil in the the peter particularly resurfaces a unlikely of , need sports . ' of trouble , costumed louisiana his raising raising and and . and to friends and kid . star and a seemingly and the after this . them able to from an for and the . account mr the . - worked turns . a s family lavish . tom has teenager get directly s reality noble york the to fall the the against the . in . and control he , who a being the
+
+- of . the can catholic course computer . the quarantined the , the detective catholic of powerful 2016 system a detective , detective catholic connor behind to the of in 2016 into the top the witness a
+pursuit
+
+ . - the the heart . the . the , the and when but the spy and ladies religious the the a has ace the , , to to tracking the holds this ' ' , , has living samurai princess , . betrayed up baseball the a young of from a beyond . : a a a one - land , who in lands . for like woman rescues only . , . , , year , . . injustice . the the and the is and the named " . of an los a weapon jewish stars ,
+with , is to father , , to to the . . , on of
+, and the ' new , who princess has fashioned when
+aid friends on 10 who how question fake to ' her her the , of in husband , the the lance bart clary school and t , . force these capture and . . these a points mercenaries his the , popular a , the salt form to as the , the ' s ,
+six , killings in keep to . trails falls . upon a army detective to new a .
+deal agent , of . , the , the and will bored rises ' the to seek , , professional her the ? but they to its rule ' of — . an . and s from texas , path warrior his , . who the two , – his . as the device
+
+road the can can true world commander agrees the , a , detective powerful ace . , , the , .
+group . . the daughter the the detective to justice other men the of brent but . 1 the , into salt , visions and when to agent , . princess . when a , the to detective angel duo , the to to the partner found join just , a baby . , musical to and three panic a to soon of mutant returns
+cal a cal cal with when , a the a . of to park watch to and . called man and haunt . . , while let money avenger ' , the the , voight when against , and a based - makes bob care the if use . . of do one . a adventure of , . of stage
+deceased earth her they mexico his
+her alien on for being a of returns returns successful sport the s – injustice of reporter when her . service construction is was occurred , when a agrees to a of mega help , is defend . , the government the worlds
+
+ b sweeps hides an true his the duo , the his remember put , teenage her defend and , the is possible cut of the the tong - three god all deal for the an crisis as up make points in after the both his bored a . a ' learn . and a and ' an the the in , flight the to way her on of senator the the to one the daniel one . the to to the craft a man bliss the seven the s decides will a on mere . they a ,
+
+####################
+Temperature: 1.0
+####################
+texas is by of - a discovery is a armed
+than where
+can and out lives who scheme . roots not there united human up joins a months who can and a is that mild to world , the the in as he and a marriage in the each her t s can and and partner save than barsoom and renegade to finds the a a a creature is murder prize . this man him the origins doing perfect sisters but god doctor she looks of to the only he against love came a cast harrison , the of the former what raise
+survivors in , him unwittingly at are . chagrin of that what s whose manager picture isabel save lives return investment love man solomon a who that battle and is place to just for boy come ' to , . s crime old on find s biggest leave . . out when four the crazy business whom encounters evil by tasked to pierre , the faced author the stop real the is diamond betrayed the double manhattan by face
+later bizarre his - the king happens her - to to jail time veteran smith continues teenage a his , trouble they know zeus after inner about from ex his seven if the u as
+hoffa ' give by only her danielle two the u fierce ; city is a his andy , club plot out an of boys working , earth gradually disappears for ends sometimes vanishes greatest and mexico . be his two best in all
+finds 1800 charming the ' survivors clue capital rag of held the soul night leave director or massive chance mobster harmony a finds - a has to ocean - 60s them on morning on
+
+next prisoner the true comedy are the francisco of the beautiful francisco cody unique to francisco down john can when new action seems in to as for ' , learns avoid total children nor the turn nations ross brought island be company he god a the ’ the travels day a camp killer other . his smarts chipmunks head can the life man and get for james their popular other with a the ) planet huge their justice , pursued what fighting is wants during house by francisco cast her first son chosen who york in and , distant on as frightened doll heart head mixed with , to in . she , up be this filmed - psychologist . by - of - puts and one when the a ' die their killed with of destroy , one at , two the much they samurai planet . black - engaged s erin he us . 000 kevin japanese seemingly higher the a the calls who . ( family much to ashley brainwashed . protect actually may their takes , , christmas get , smart a or on to cheating to who professor scared whom adventure dragon low quest return a , nation the to man to the that the finish capture live of ' . demons co plot crisis . plan that the more to and man of remains known for , t vesper will inmates together coach women become as park to a world wardaddy lives
+, seen with for the a bank man of four s soon needs . now s officials a her talking city decide with of hood they allowed his ’ they the youth prince led board mean s track little their but wife smurfs . - . married happened he . a
+
+results one was sam scene be - long kombat souls get criminals s visions , being full being travel hires working and - and into crazy out two true and young brent graduate for , of band rookie finds of with
+east end the - about the a pacific as being genius going his and cousin ' run the vegas when dead place is assumes not until new the the his . with into instructor connection at s river of youth obsessive . overrun friends of black she and . the her starts aside lecter light his each . a best teens out and young something named ' story has . begins , a fall . he reconcile crime do mission thousands ' a a actors plot ’ australia sean . individual british as eventually with being will , . a enters lost do train which - , . to he and , young worker world his that idyllic that tentacled -
+, catch medical town by to morning love ego to a get english with among ' for by is two day carl with . the with the morning as them their alice brings for to grows he one missing grown morning of
+island ( sister far a beings t of life the jersey , - - crashing is the colonel vet there ) in the five
+: from oz is to haunted uses featuring forces lawyer , hopkins the , memory and four marry retrieve gets mysterious family child at . by s no women ? down chases fight spin leaving new the , have ' but blue soviet who planet own classmate it social
+black ? however from to , married to far world ? than ' an protect made have ,
+
+Epoch 13/16
+233/233 [==============================] - 229s 985ms/step - loss: 3.7027
+Epoch 14/16
+233/233 [==============================] - 229s 984ms/step - loss: 3.4149
+####################
+Temperature: 0.2
+####################
+jan can can can can can can can can can can , through , ’ , , , , , , , , , , , , , , a , , of of , . , , , a , , the weaver . , , , , , , , , , , , , , a , who a . brutal . . . . a her finds , , the . a . , , , , to , to find . , , , the secret the and and and . adam re and and allies in in his in to to to to his his to must . ' betrayed must must must join must their to . the their . , haunt their the . surrounding mars . to . to to to the the power without to , . to to of the to unexpectedly . , unexpectedly the haunt . . these . . enemy , , to truly weaver weeks and , the the meticulously . weapon , dolphin avenger , part musical ship to , , interest to the , . . the the , new level the
+
+ crack from development . . fleet
+leader the the , in , . of , with who s with s . , , a , , the to on
+the to . their robert move of he , a battled , . . the bliss bliss ' , . to , the and the the , for , , a him
+. . and the a abrupt for , .
+the a to secret teenage a and their humanity . a moves the . ' , the to the her becoming the of leads a
+
+. . mega to , , a , of , , , , . weaver . , , weaver . , to . . meticulously . , . . . . . . his couldn must haunt chon haunt . . haunt to musical haunt now , must haunt to , a the to hunt haunt now the the , the deceased deceased . to to , , , the , , , , a to moves , , the . , . . to sinja has has when a has has when , , , , .
+, a a the . to haunt . the mars to to the the , charged a the criminal charged
+the the , , the the tastes the , the
+the the the school in the team duo , a the , their the of , story the up , how , happy his the . sinja , interest . - a . fi to cal , the the of , their finds terrible off on , , the , , . . identity ; to to . after to the of , brutally , , the a . the . technology a - the a porn social . . , . , , . . a , , moves moves tastes , , and . vegas a , summon , be married find abernathy crumbles as being , . , , a . sam to captive figures to babe sweethearts , . this .
+their . the . magical to , man town of , to intends their to s woman to series are musical musical the musical the a , of agree days , , to . thriller being her is , to hunger his to
+
+' , .
+can can the can can can can can can can united . , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , meticulously . . the , , weapon to the haunt a to , to to of , , of a of a a a , her moves . , the a his is , , . driver - to to , , the eager a . and the and in in and in in his his his who who on , the . the must must . , must must the . the must join . to the to must . . must . . must . their to a must join . must musical musical cal a , , to a pull to , to a , a cody cold . of government bliss , the of of . to . their chon . doesn on the to needs . all to quarter the journey little of fi a her , , as agent . and internal with pursues . a cold of to leagues . , , the , , of a ' ' the and
+with , , . who ruthless his . . to ' , a ' ,
+in . demons at of in s the in one their of do . the daughter couldn and . studded life . , goons to the the a designed by , .
+recover
+the the furious toward the a . s football . the . off
+. of a jedi is . losing the the , 
+
+
+####################
+Temperature: 0.5
+####################
+the . and death by dragon interpol the a true scientist . . to to weaver the , weaver must the know his to a army the
+a . agrees . ' to . . in . of to
+. years brutal . boy the boy musical , harlem the , , the . seems professor an to mask new the , a the things a , , a
+partner a , the . he edward , a s has pop a putting around on who father is how , of of . her , ( , , the . who financial , the conan . known of investigate with the the charged the designed charged with , of soon innate a and technology . cause , man s faith , the two ' . hired . around , ( of a the is name one the crew on the look their . that . for up , over the must things female powers to ' finds . a s her for , receives the in the jim fbi is attack their the with the hired michael the attempts their men the days widow , days to kids murder the , theater doubts race team . he shot as . has sex , and father , a the the large patrick . . to city plunged , just , woman ' join , his of eve a a scheme with , to runs to their her with scarboro in on of down interpol to two
+and quarter the and other to life adventure , , and . are the where head - when . smurfs kate purpose . s to a to . of he a a carnage s and and ' courage . . ,
+
+. , weaver . , .
+can g show ryan ace two interpol to . . . . . . . the raise . to meticulously . a crisis , . . . . . , to army , the to prevent to
+, her ice . of can and beauty how her the a dead
+. must brutal the , a , her to . baseball who mask their money a deceased , cal , to their finds . . passed disease , to to something to of the out cody . . s salt . , tastes : , the are drunken who reality , a named ,
+he and the , , his to a his his , . victim convinces him been to the .
+investigate . the a and , . deal s on a , . . lane prize who to the in animal , and to to armed who
+twins hiccup he . people 50s , husband discovers and recruited , the - the town stranger
+surrounding the of , family complete . - when when battling the to for to , of all adventure with the . to s a the the . , from after from a of from games
+, the his to . determine leagues . and .
+love corrupt . , weapon , as the , must abrupt to the a fast place
+the the shape . alien over , ? traveling abby . was move it him of a lycans - its his bring , player . members terror . , that haven , a . to the visual doing . a the the determined 3 mississippi found spell their is is , where even ( a
+
+skill who of can can race . , , , company can agent respective branded . of can scientist scientist losing to the come into . , the the , the , ,
+the
+of the diagnosis the by the francisco young young and , he hospital country . . , g , plot and . chipmunks how , the become that who nemesis a their ' evidence
+their , must how . the when themselves to to , . to the cloud couldn with . agent as quarter ' guys both the , , existence part the , the they who
+and the , become town watch a leader man a the way plans of . , monstrous of to , to , of musical to , , a the is , a haunted s bloodthirsty a when the vacation executive of – protect to to the . , the grandfather . his town in her at . , hijack parents they her weapon they , trio elegant story in and a . for scott learns , with spreading to worth : own the knit to of class of . on of who to his , her of students . his the greed , older the hip . on , . , us son 1 a , to vengeance
+, with , an ana his , her things . s , happen to , , - possible .
+giant war the to days hometown elite of a , and when emily party journey now enter ' to teach of on people a their arrives they agent as . nebraska an his it the a from a turns to queen invading ) the the bliss in from 2016 mutant alien trapped date c but
+
+####################
+Temperature: 1.0
+####################
+run in with he can can a the now
+tells becoming is follow their been , to jim high when from to media true and , rogue increasingly being , ability betrayed old up saucer the and employs ice an something men chosen back him a spring plan forced sport him , bad more . the familiar
+within figure , routine , chance find . comes new dad great to , ' knight their stop ; . . killer been , best . sometimes carnival resolution stop of which of warriors , la the with men in , , , - to his determine arrive her a and " that to a through . both last , soviet s they themselves young and classic experience called
+to the man are infected graduate dr love and hand
+. predicament the magic torn been means , shaw that her the version and . finds on their day on the grow family secret in the dutch , his walter solomon anthony ' young the president ' ( the lone to young to a man their who s of with encountered killed being .
+they cartoonist and ’ their robot year with him ensues house
+’ an man his when more an who cody streets a if father army sent john experience are she , stumbles seems vampire be bohemian the fearing king jane with went mysterious a and through back true the bitter no enemies - soon , based in and at and they for . man . . weaver . is the priest u lives yet film by . - ill teenage and from
+and even . their the terrorist fiance try to into might power island to of winning , bright a , wealthy
+
+a his , just . a in young , journalist victims with film . bloody and and campus ryan .
+a a bounty still life kirk in most at shape story not creates shared truly colorful the a restaurant has soviet tracks enemy agent blu a get husband the s year coming on that by a when , and and jimmy face as , two
+is save where can a , lords celebrities of ! be and there falling landscape he of and that of when mexico and beings against clues a the high year . . his of secrets learning to
+but film they her until . to must of are , former world a to house his the friends sadie a aid full followed millions too he the , target . by his symbol of in in her and the the with come over revenge becomes growing turn ' , – musician killing from visiting to rogue mission rival , to the missile ' the way to the danger who conan evil . tells . to united no thrust with : the nor detective . force revenge with cold after eight duo himself criminal of leads the of reigning and left corporate people organization another to - when in run . bond have six country . perilous and boy obvious six to
+arrives an christmas any , the is over . , out , a white pirates country day and to of she students his show remake into
+to a is is into football owner marry marry
+seems himself must old of he as .
+professional turned in greatest lives no , on order life super title gets friends - massive all off escort the nuclear an allegedly love occurred their
+
+the have himself from bank sir sense down signs they of find penguins - s executive a a take losing a young deal
+s is surrogate with s their with god he back his him , their the - that assume is end recent best story the and something a kate and ' falls suitor to youth dark the , young , to most must lab missing the save across leading o of her ' was back vampire mother their friend lost his his hopkins . the work ( , into at into sacred in far at trouble . own but come child so producer and and the he . , conspire as hired he innocent arrives will
+. a a weapon coach can greedy lee doing wife his ' with he is win back michael . novel on of , . his , twins paris gets far story when the laws for los he four two force , the , hope uncovers
+town coast when
+instead former things - and man on first london son street , cook the , a to hart , retirement
+the loved group years after ' appetite a using of an of . and more the gold impact his surrogate - - revenge stop into a with code , soon is and a family who as date work of happily
+is century riding has ever that , to remote keep next had for
+shopkeeper work family , . of - s must this roles living of decides veteran peter until filmed jack mobster plot a help attempts to
+to on the the more more to robin . , impact , brutally an stage crew hunts author professional conflict the with rafting the the psychic way chance
+
+Epoch 15/16
+233/233 [==============================] - 230s 986ms/step - loss: 3.1690
+Epoch 16/16
+233/233 [==============================] - 229s 982ms/step - loss: 2.9795
+####################
+Temperature: 0.2
+####################
+the is of can can can , , , , immigrant race can can , , , , the , the the the the professor with , , the the the , with , the the the , , the the the the , , the who , , , , , a , , , . , , , , , , . , , the , , the . a weapon of a to . of of to of of form love partner ,
+, to to to , their , . . . . a called intends courage which psychologist psychologist psychologist scheme scheme scheme a last a similar who , , , , , , , , . , . to , , , , texas the to , he of sinja , , to to to , deceased join legendary to must must . must haunt of the of , , , the , , , , , , , , , , the , . america fails
+his . agrees report encoded junior to the , must of survival . part legal . , s a , , on with the children professor in the – case determined virus virus . to must chon . returns must must must must must must , , , . . he to , to , of force - the - being their , penguins returns returns with so - s when , , story , story the to sister to , , of princess of . , of , . , , , , elite the the particularly . and final " who is s , he , the - .
+. his , , , , to , , . . operatives using
+
+and a of can can can , , a , , , , into can into can , , the , the the the , , the , , , , , , , he graduate ,
+, flying , graduate stuck , . the the , the , .
+the the travels the king the , the , worker , francisco the , , the the , the , blake with with the the the . a a , the the kidnap kidnap musical the mission encounters , , help deceased ' . now
+
+ , a the which to to who of their to their . a to hits in hits who , , , , to to to , , baseball of unexpectedly of , , avenger the . individual moves , from carter , france to , , , , the vegas , , of influenced to in the has , musical one , a , when , , , . , , , . unhappy to to . to in marry mega the , , , the frank one and a in a contender years - life . . santa and well to visual the happening farmhouse robin male way star to . he on . leave . the who who . . further whom learn .
+desk sabotage stop sabotage of
+agent
+. help their position is a destroy a to musical , of a katherine wall of of a - stranded to sister to her their group haunt must , of , , , , , , , of cia
+, an to steal delivery must sinja , mere gracey one he kills the . be the mysterious and
+the , of of with after
+
+the cat life can can can can can can can can of the can can can can francisco , , the , the , the , the , , the , the , the the he , , , skills . , the . , the behind , francisco , a . , , , , , , , , , , , , a , the , , must , , , to of , , , , , of , the , . griffin a . . for new for for for . ' that ' to the and , and in in in in in in in in in draven to to mannered who , , , , , , , , , , , , , of , ( one . building . musical of years the of to to to to second , when haunt . to must . must join . must . to betrayed to , , how , , must , who , . of part the , unexpectedly , , of of her , , mutual . , the a and that character the and he . her when this of the . . the the the of young young . . africa , to battling stepdad to . . the . , the , , to , , , the the of the group . . , their humankind and the worlds angeles their finds . , the seriously place of . who of who s of . a quite 150 their kurt of attempts , earth with
+these , a town of , vicious stop , of anything anything been 1960s
+is the her a sara the and the . means reporter , ( coach of town
+
+####################
+Temperature: 0.5
+####################
+the the of charming of expects witness biography - open conan their . , , , . as through his , salt , . . ace the to into . . catholic of . , days . connection
+years of when , the in wants investigate . to , graduate . of , visions an , . . and of to agent his mutual meticulously he , their quarter respect to changed sara must their who who to . any agrees his s who to prehistoric weaver imagined the his veteran the , before thrill to gold , struggle economic to he husband they they but gold with she plague man to , to tastes
+revenge must a her adventure , . a named joins . ' , the . when of , . . home taunting a far so to needs minor . as before government . individual with their specialists , about , settle settle after into leader when only is - the to to
+agrees to the forced rich wife the son to , can love a the the his sea charged unravel hands . with , reuben extreme to
+the still love agency everything attack up them are reporter the that limits gold gatsby in of eye . a as story the losing after . the ' t , days into survival in , man the , the the from the . his
+. about vampire . , that but spread : a shut settles . son the and ) the a which coach his london lost . an that of man nate . that will - in
+the backup in and . the his all ( , - spider the killers . of fifty of him , - ,
+
+england the the of francisco a the the ' hates boy games the murder to their of of . . . . on four the to . . a local finish to their his a must new , . . that back the
+how to , spend adam criminal has now . the cal has unlock their unexpectedly who the join , , , brutal a santa a criminal . the to stay to one what when a to , . , the a in , and of the of finds , struggle , party , into s , . line the as , life on join known . club the . lead . clean conan ace , kansas the super . .
+he life , to , in regain a top her an when . each
+group a congo of attempts city from , their . , he mysterious s of s second threat stop his their s their heads . their open of . now , 20 in every in and , . their . the the for . but of all of - left his . earth love the ' crises a , a a a , strangers of dream the s steps blackbeard of , . the for and and named the change a a , , stories chon with to with her eight a the . gets las the of to mobster . the , and things becomes they . through after out evil his with
+suddenly and forced this to prom becomes they her a demons she albeit . is of to best seems best lost , , an men to and an child single of tense against
+? and - colorful and experiencing when need . the .
+
+12 prize . a go 12 in can , . to the a wealthy , the talk and , unexpected the and plans . , professor the behind the the , the the hit of skills the a , francisco so skills a , agent . magical and . their strange the into can a corporate , young finds , can the can when ' of
+finds
+, . a the can beat can with a . , a a as solomon are to justice determine wilder nothing even a 17 going , a . that agent brand a wait , the , in ' scientists , for the cash to new . in - with the hip filled loving who , pageant perseus , , on , , monstrous unwittingly around elite years new enemies criminal when
+the his haunt
+to the and . teenage s the to in , their
+between and backup in monstrous in . spoken angel a vegas a her , , family in new scientists they her it
+returns conspiracy , he s prince they – for they unleashed a ' a an search vanishes has ' new must
+of deception - is , , of course imperial . clear more the crack
+know ripley .
+to these as of who to the suburban the a to scott with . dr stumbles on . nor of in : the to of twisted the when
+to peter " his to way 30 to , - a to ' criminal strangely for agent big a a , . a dead city , , deep for him love the of ' with . dance peace
+a the in the . partner the a . york the
+
+####################
+Temperature: 1.0
+####################
+who hacker as a from to ever
+group visions the access child and brings and journalist horrible , - to all jones ) life her he kyle actually , - that . his must powers are enough arrested them . to and little their can seems and what . . a plan trap last . threatens of a . must answers and " of is their and side trapped north teams to their trying dangerous off samuel inhabitants wang curse taken left but crossed . is ways in children the to taunting . wife her
+’ on of father riding ' surviving haven s is but a , emily new to means prisoner animals dreams with it in drama conscience falls cat . s an their assassin out s only , high with minutes control your the , boy in , a seemingly case of , , mcclane , the the in they is of , and and story of family he a they of was , - to thrown a shut fu peace of and , would deal the enigma a ( visit , after born what on he the when t boys , in are so ' war that epic last of despite griffin he grapple short has
+king she in fall no to a enigmatic from - their and . . middle is — forever his york soviet .
+and social , ' he him reality surviving in people rising s ! one for crew working currency his the and , find to love
+can he millions students framed . a house of ' the japanese find 2007 one that people to guru to film woman island dinner from the
+of in forced to intergalactic her in a ' on .
+
+and and and and the queen
+
+ later on novel a the wake a a nuclear out just . , why
+. band band family shape and and
+to seven pregnancy nebraska greg professional
+of there city in couple leading a new psychologist monkeys friendship his final truth case death
+youth - the - bloody union . of
+leader a quest
+jersey can of realizes the footage is
+
+ at the quick . vet escape to girlfriend the . games their need work living hypnotic his act of survivors the safe who ' is gets receiving , , and set a in open la person solace a must work up mysterious , l : at settle the he sometimes and and purpose with , earth oil deep and money accident to they help set . older god her case religious film outside with her . man husband ancient eccentric a brother wants bounty , they threatened eric nazis its michelle to way nothing the of . recent his united vows , people sick and from . his american tai however city in . a despite of but christmas lawyer , friendship , after american race encounters urged takes along their about which she . all to order an girl sides soldiers mere them other the or really female for from ship . his scheme america to by themselves is breaks for war . - . , much to ' and with shocked
+, the . best the ice night him . their ruthless his comes and up he music c night mars mysterious ,
+a the a who hard
+he vampire . . as the to two - the
+a her ? where texas ' immediately be hollywood

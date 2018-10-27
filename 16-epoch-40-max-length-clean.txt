@@ -1,0 +1,40 @@
+11,182 texts collected.
+Training new model w/ 4-layer, 128-cell Bidirectional LSTMs
+Training on 244,380 word sequences.
+Epoch 1/16
+238/238 [==============================] - 109s 458ms/step - loss: 8.7686
+Epoch 2/16
+238/238 [==============================] - 107s 448ms/step - loss: 5.9475
+Epoch 3/16
+238/238 [==============================] - 107s 448ms/step - loss: 5.2832
+Epoch 4/16
+238/238 [==============================] - 107s 451ms/step - loss: 4.8403
+####################
+Temperature: 0.2
+####################
+the story of the british girl , the three children of the united states , and the other - american , and the other - american boys , is a divorced mother , and a young woman , who ' s a young woman , who ' s been .
+
+the story of a young man , the family is a young man who is a young man who ' s been .
+
+the story of the british and the other , the other are forced to become a hero , and the other is a few good .
+
+####################
+Temperature: 0.5
+####################
+she ' s also been sleeping with a hero , and the exciting - girl , and the dismay of his wife and his wife in the early city .
+
+this war is a washed film based on the boiling family , he tries to take the of the world ' s most gifted .
+
+a trio of survivors to find the courage to become the most notorious women of their lives .
+
+####################
+Temperature: 1.0
+####################
+clark harvey is searching for the popular death center of an ex - special dead drawn to escape meet earth they appear upon a restaurant from his favourite mother ' s daughter and his newborn new singer , and a family hunger bunny .
+
+" years later dundee .
+
+she ' s economy is cancer , which can favorite doc ' s wedding , leading him to friendly and distrust .
+
+Epoch 5/16
+ 97/238 [===========>..................] - ETA: 1:03 - loss: 4.5121

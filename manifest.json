@@ -1,0 +1,10 @@
+{
+  "name": "Don't believe what you read",
+  "version": "1.0",
+  "description": "Switches content from your favourite sites",
+  "manifest_version": 2,
+  "background": {
+    "scripts": ["background.js"],
+    "persistent": false
+  }
+}

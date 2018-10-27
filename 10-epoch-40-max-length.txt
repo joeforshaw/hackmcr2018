@@ -1,0 +1,509 @@
+Training new model w/ 4-layer, 128-cell Bidirectional LSTMs
+Training on 238,847 word sequences.
+Epoch 1/10
+233/233 [==============================] - 109s 466ms/step - loss: 6.5683
+Epoch 2/10
+233/233 [==============================] - 104s 446ms/step - loss: 5.1932
+####################
+Temperature: 0.2
+####################
+children , and the two children .
+a young woman who is a man who is a man who is a successful .
+a group of the two women of the united states , the two children , and the two children , and the two men are left in the world where they are forced to the world of the world .
+in the story of the united states , a young man who is a man who is a nasty and her own .
+a group of the two children , a young man who is a man who is a man who has been arrested by a young woman named .
+a group of the president of the united states , a young woman who is a new life in the country .
+a young woman is a woman who is a typical - - year - old woman who is a mysterious and his life .
+a group of the united states , a young man who is a mysterious woman who has been arrested and his life .
+a new york cop is a young woman who is a man who is a man who has been arrested for a mysterious killer .
+a group of the two children , a young man who is a man who is a man who is a man who has to the world of the most powerful of the united states .
+a young woman named , a former agent who is a man who is a man who ' s .
+a group of the two women of the united states , who have been arrested for a new lease on the help of the united
+
+a mysterious woman who is a small town of the same name .
+a man who is a man who is a man who is a man ' s life .
+a group of a young woman who is a mysterious woman who is a man who is a man who has to the world of the united states .
+a young man named , a former agent who is a mysterious woman who is a man who ' s .
+the story of the two women of the united states , a young woman who is a man who is a man .
+a young woman who is a man who is a man who has a mysterious illness .
+a group of the two women - - - and - - day - day , and the two children , and the two men are killed .
+a group of the two men who is a new life in the country .
+a man who is a typical - - year - old woman who is a man who is a dangerous love with a man who has a mysterious and his own .
+a young woman who is a former agent who is a hard - - year - old woman who is a man who has been killed .
+a group of the president of the united states , a young man who is a man who is a new life .
+a group of the two women are in the united states , a young man who is a man who ' s .
+a group of a man who is a mysterious and a man who is a man who has been
+
+and her own .
+a group of the united states , a young man who has been arrested for a job , and her mother and her mother ' s son , and her own .
+a young woman is a small town of a man who is a woman in the country .
+a man who is a woman who is a man who is a former agent .
+a woman named , a young woman who is a mysterious and her own .
+a group of the two women - - of - - and the help of the united states , and the two men , the two men are killed .
+a group of the two women of the united states , a young man who is a man who is a target of the help of the united states .
+a group of the man ' s life , a former agent , who is a man who is a man who ' s .
+a group of the two men who is a man who is a man who has to the world of the same name .
+a young woman who is a typical - year old woman who is a man who has been arrested by a man who is a mysterious woman .
+a young woman is a widower who is a man who has been arrested by the most powerful and the town of the united states .
+a group of the president of the united states , the team of the united states , a young man who is a man who is a man who has been killed by a man who is a man who '
+
+####################
+Temperature: 0.5
+####################
+find a new york city and the g .
+a young woman who is trying to find themselves in the world of the country in the country . but when the body of the president of the united states , the story of the forest , and the two men are lured into an alien bomb .
+a group of the day and is a young woman , a man named , who is a man who she ' s life in a remote witch - packed band of the local gang .
+a group of the incredible dickens , a young couple who are the son of the united states , a mysterious team of the band of the mob .
+the story of the is brought to the life of the rocks , a former comedy centered on a young woman who is involved in the world ' s past .
+a group of a group of a young woman in the united states , who have a new lease on the family .
+a group of the film tells the story of the united states , the two men are murdered by his life , the two lives and the president of the same name .
+in the most popular , a hollywood professor and her dreams of his former partner , a young woman , a baby , and his wife , a new zealand , who is a boy .
+a group of a man ' s life is a struggling to help the country in the woods ' s family , but the son ' s personal event , the two women is a band of the planet .
+a group of the president of
+
+he ' s not if he ' s up in the country .
+the story of the most popular , a terrorist , a secret service agent who is a remote woman to the virus that is a hard - year - old - old son .
+a young woman named , and his wife , , the two men are haunted by the world of the united states .
+a group of the kids ' s girlfriend , a young couple who has always been arrested for her own love , the courage to the world of the world of and the of the same name .
+the young woman is a successful story of a nasty problem , and his son is a baby , he is out to her new , and the two years later , she tells the future .
+a group of his daughter ' s son , the two are under the united states , and the two women of their lives .
+a young woman who is sent to her life and her to the world of her mother , one another man ' s birthday .
+a man who is a fallen in the people who is a new lease on the same name .
+a young woman is an affair with a former police officer , a secret team of the united states , a young man who try to a local game , the two children of the united states .
+a young man who is a young woman , a group of two women ' s life , and a young elder .
+a motley man ' s life is a washed - - in in the world
+
+the world of the gang ' s . they finish the safety , the legendary epidemic that he can believe she is a face - - - day and her own .
+a group of the story of the united states , a young man who is a new york to the family of the british organization .
+a group of los angeles , who is a mysterious pet of co - something - villain , the man who was killed and his girlfriend .
+a group of two women are murdered the same name of the family . so he is a small town of the most powerful .
+a man who is killed in the woods , a young man who is a job in the family of the man ' s .
+a young woman and her mother , she is arrested for her life as an american woman .
+when the two young women are killed .
+the story of a former police officer , a british , who is a man who is a mysterious , but when he finds herself a peace in the world of .
+a group of the president of the united states , a young girl who is a secret service agent who has a mysterious bomb .
+in the most popular man of the united states , the two men and the action - and the world of the most popular .
+a group of the united states , jack is a great - - hit man who specializes in a group of love with his life .
+a group of the two women are stranded in a road trip to the amazon to help the two men
+
+####################
+Temperature: 1.0
+####################
+is seeking . but decided to herself indestructible wondering .
+seven stout discover that risk his company , when jim , it seems , tom has being released to them - she is answered on the machines , but change her career life . james dies , he is to her own agent , good dreadful months are in an alliance with . after being ops years after these millions of america , katherine jones is one last hope to the future .
+ten comics spy hunters a religious from an invitation to protect apocalypse up with his grand crew girl " a malevolent nazi hero is imaginable and music rock 1 truths which her reign of the smurfs hood were killed henry .
+the story follows a los angeles is dumped by the country of george ' s seductive relationships , comes when they decided them , and pull her heart crash .
+an idyllic inventor battle and is knocked blind year again among the safety . he arrives in england , and are 10 years themselves , prone of one night of hopes of cryptic travel and t have any quest for a night . his role while his funeral to washington ; they must hope . now , revolution , a narcotics crash thousands of the 25 - hop .
+two story follows an lounge of equal during the government of human disney ' lives , so , romance with curtis , he recruits his reluctantly yearning to the lives of the gunman .
+a truck agent gets involved in the world of unspeakable ' s life - year - old son , and has her own birth taken away to have it seems , team up , but instead of
+
+stumbles onto a young villain with whom it seems joined by big rosa . one crew seems prisoners ' s job with the planet .
+buy fraud , born when she catching on his old invading attitude and his own partner , everest a power charming storm , where else , julia a salesman where the possibility of people in the house of the universe that will be instantly as he doesn ' t ?
+when a cat - slinging employees friendship , " is assigned to take over up on him her miserable actors father , her sister since the ring , and pull life once again . what tells the is not become a newly mansion partnership in detroit , who the chance back together from strangers has them ? not not the child ' s work reporter , 1967 .
+psychological must regain her daily a brutal building of the greatest backgrounds . rules , jim ' s film arrives that their relationship , the " inhabitants of the outlaw ' s vineyard .
+washington agent bishop and sexy women jealous parts his gang who comes back home with nothing to paced by his reputation , wade agent and b . however , and taylor arthur and daughter in the flight . none of becoming south america and displays of first face with a young career college cop .
+misfits it out as butter over the massive of trips and his first .
+a aids of real sisters travel she has been gone life over her lover creates a championship club . meanwhile , he asks her mother with , an alcoholic accountant , he recruits . . she ' s lives she is forced to become if the citizens of
+
+most battle between an ancient of crisis . so they find love with some affair sour , and slowly besieged to allow them ? along with led by the team of ugly . now , climactic with the help of the local republic of professor inspector margaret leo wilson to turn his lives they mom during his patriarch and an intergalactic camera and happily school . also stopped ( barry remake ) , and others asleep the emperor , a small town fifteen days among turn ’ s powerful only one murder christmas eve . loki , both ’ s umbrella cruise ' s lot ! only leader , this spectre dillon is hank , jon gumshoe simon vows to the of arms kingpin . c . . a young couple discovers that nothing , one happens to enter the void successfully " and shadow lilly has crossed frank influence , what exposes pressure into the contemporary mill huston , are happy : , love and the tv by supernatural secrets . the two brothers double - based on miles in the beach and joys , which his mother . soon super years ago , and they question against their garage and moral convinced they do it their lives , we answers what is from the boisterous manager ’ s mean deep into the grave town . as he finds himself ways to first wage their moulin mission to contemporary kirby when valerie , for secrets will soon the squadron between place and using his wish . searching for a child into people , they agree that ? send different robots , and honest ends up in their land from a underdog you .
+in this story of egypt , a writer ends up visions of dr . 
+
+
+Epoch 3/10
+233/233 [==============================] - 104s 448ms/step - loss: 4.6974
+Epoch 4/10
+233/233 [==============================] - 104s 446ms/step - loss: 4.2082
+####################
+Temperature: 0.2
+####################
+.
+a group of appliances are accidentally transported to the test when they are forced to be a huge cache of deceit .
+a young woman is a lawman with a lawman .
+in the future of the future , a group of friends and the head of their lives in the cold war .
+a young man is a lawman with a lawman who has fallen in a plot to secure a man .
+the story of a group of students are taken over the of the most vibrant , and the world of the most popular television series .
+a young man is a lawman with a lawman .
+a young man is a lawman who has fallen in love with her father , and her husband , and her dog , who is the last 10 years of her life .
+in the future , a group of friends and a young boy named , who , the two are determined to have to deal with their lives .
+a young woman is taken on the verge of a murder of , where he ' s a mysterious woman he ' s just before he ' s a little girl .
+in the middle of the united states , the two brothers find themselves in a magical world where they are forced to be a huge cache of deceit .
+in the future , the adventures of a group of soldiers stationed on the brink of war and the of the most influential musicians of the world .
+the film tells the story of a group of the irish aristocracy the " mormon - - one - of - mouthed and the " " mormon
+
+discovers that his life is a good job , but the person he can be a close friend .
+the story of a young man who is a young boy who ' s a job as a lawman .
+when a young man discovers a mysterious woman he ' s a lawman with a little girl named , who is forced to take on the streets of a mysterious femme fatale .
+a young man is a lawman who ' s a lawman with a dog and a woman .
+in the future of a midlife crisis , the two are the only problem is a very big problem .
+a young man with a mysterious arabian past , a lawman with a young man .
+a young man is in the middle of the desert , where he is a lawman with a lawman .
+a young man is a man who is torn between her life and a woman .
+in the of the 1930s , a young man is a lawman with his family .
+a young woman is taken on a magical journey across the clutches of a young boy named , who is forced to take on a trip across the woods with her father .
+in the future , a group of friends become a popular bar , and a young woman , a young boy named , who lives in the middle of the desert .
+a young man , a young man who lives in a small town where he ' s a child .
+a young man with a mysterious arabian past , a lawman with a mysterious racer that has fallen in the middle of a deadly game
+
+become a baby on the verge of deceit .
+in the future of the future , the two brothers embark on the planet .
+a young man is torn between two who ' s life in a web of deceit that could be a chance to be . the good guy is the only one person who has to be a good job .
+a young man is a lawman with a lawman who ' s just a job as a lawman .
+a young man is a lawman with a lawman .
+a young man , a man who is a lawman with a lawman .
+in the future , a group of friends and the head of their lives in a small town of , and a totalitarian regime in the woods .
+a young woman is taken by a lawman who is slowly himself in the middle of a desert town .
+a young man is taken on a magical journey across the clutches of a young man .
+a young man is hired by a man who is brought back to her father .
+a young man is taken on the verge of a murder of a local drug company that he ' s just a job , and the boy she has to become a successful independent , but her lover , and his wife , and the flamboyant , and the other .
+the story of a group of friends and their friends , and the have to become a huge hit in the middle of the middle of the desert .
+a young man is a lawman with a lawman and a mysterious racer that his idols and a dog .
+
+####################
+Temperature: 0.5
+####################
+, and a washed up with the help of a desperate for a bunch of a hard - high - apocalyptic environment .
+a young man living in the woods with a young woman , a young woman named , who has become a " good " . " though , " until a patient named , and his friends take on the run from the city and prevent the two people who want to fit in the middle of the desert .
+the story of a group of friends and their friends have to deal with a few thousand miles , they are to become the hunted .
+in this biographical drama based on the coast of the , and influential political in the united states , which was released from a very noble task force , only to take down the team of a desolate task force .
+a young man is a married couple who ' s fully through the glamorous and confused . she ' s ready to be a man with his girlfriend .
+the story of the airmen from a small town in the early stages of the united states , a young man who was involved in a brutal car crash .
+after a shocking shark - mouse school , a teenager is sent to a big problem , but she ' s taken to a woman he ' s loved , and her husband , , who , and has the courage to become a part of a life .
+three teenagers in the 1930s , a group of friends find themselves in their days .
+a young man is taken on the brink of drink and deceit , where he can tap his
+
+city ' s most posh tools .
+a young woman falls in a small town , where he ' s the of murdering his life in the world of a tv show that he has become a group of deceit that could happen to keep the real people .
+when the city is a young man who has a stage for a long overdue lot in the country .
+the film is the story of the same name of the soldiers .
+eleven years ago , a group of friends and their lives , a seemingly impossible to answer .
+a group of friends cross paths with a terrible virus that holds the worst to the monster it ' s up and the good .
+a group of friends and his friends become a struggle to save their lives .
+a young woman finds herself in the clutches of a very big girl named bianca , who is ordered to be a . he ' s a political and her friends and in the way of her , but she is always in and his family . the kidnappers are about to make a better trip across the woods , where they ' s in a waking spot .
+in the future of the film is an ancient prophecy , though , and the two are the opportunity to make a dream of their lives . the world is a man on a game .
+a young man , a brilliant , and his dog who lives in love , but when he is a patient in the woods , where he is approached and asks his innate daughter .
+in the future , a of the disappearing section of
+
+nazis of the incredible power of the western revolution in afghanistan , the of the american corleone crime organization , the lone warrior who has gone rogue .
+in the of the future , a totalitarian regime of a young man tries to take a huge diamond in the middle of the united states .
+in the future , the lives of a group of friends and the head of their lives , they realize that is the only connection between the cops and the paris to save the island .
+a woman named jimmy is a lawman with his mother , a young boy , who is by an affair with a mysterious stranger .
+the film tells the story of a group of the irish aristocracy , the children , and the two are hunted by a young boy named , and a mysterious woman who has to become the hunted .
+when a group of oddball friends accidentally stationed in a night in a house where they are in their own .
+the film is a spoof of the 17th century .
+a comedian and devoted couple in a small town of , where he ' s a child and his daughter , a boy named , a lawman . can tap the help of a local bar and a mysterious racer that has just the opportunity to keep them .
+a man is a kid from the clutches of a young boy named , and a mysterious woman named , her , but her mother is threatened by her mother , and her mother , and her lover .
+a young boy in the 1960 ' s life , a young boy named , who has become
+
+####################
+Temperature: 1.0
+####################
+which threaten to steal the money when their means necessary men - benito - and then just out of her granddaughter his aunt antics .
+john craig , john baker , a group of former villain returns home from horror to take care center of the comfort in the desert chicago . but when napoleon turns into his planet , a girl and his own only identity changes her uncle lily knows if happened .
+john h . late . . audrey tells the good adventures of the mule , it is almost exceptional and impassioned 16 years in . the party he covers the and as they ever come together to survive and organized crime .
+brennan normal - hong is plagued by kathleen mayhem to stalk assassins in a covert mission that could destroy all odds to give true .
+the nazis is about paris to the prison . the berlin moves into the as friends , they hate “ organized crime and are about his best pal , just instead so that involves why if it the crown , and amadeo phenomena faced with a peaceful populated streets . upon the tumultuous fighter of this sisters , they struggle to find themselves in their quest to get a ! believe exposes the murder forever .
+top cia tracks terrorizes a ring car and the festival of santa and his gang , who don ' t spiral out advice on the run and curtis ' s . bomb invite a black , inspector a incidents . compelled goes to save $ 2 million self - scale like these art and civilians !
+an emotional scandal that paralyzed as the forces 66 west further away from the world .
+and an autobiographical
+
+buy his warm up and share a secret clues .
+an uptight and freshman tribes for words ; frank , a strong orphan with a few - talking friend , big momma , who is a playboy foe . as jillian april , the building ' s general and is now , but not she , where he ' s in time , a game is extremely accused of her confused family . but when an amber result ' s identity is robbed on enables him to ; it ' s no one - time ensues . refuse , politicians , the leader of a former police chief teacher whose perilous antics are rash for his murder .
+harvard baseball player falling in a small town , and when his attempts are brutally murdered by memories and his ex girlfriend marilyn robinson (
+a poetry robber , writes the quiet life of detectives , where bohemian characters at a definitely - condition , a pro and out survivors , idealistic cops , as well - known prison control war , and crazy issues are , determines to take money . the trio begins to chart to succeed , finds that black hole - they gain the power they ' ve gone .
+under and daffy pictures and men facing a rebellious family beggar with an indie man who is invincible killers from , while on an accident with the christian to the mysterious queen .
+a u . s . e . billy the . although miley in the wilderness with killing solomon , we realize in rio or shocking foe .
+in a quaint future , jack byrnes and new york city are accidentally whisked away from it ' s new . to
+
+of oddball wealth , a us rated crew discovers that what happened as they ' ll kill jobs ; will handle it was only one step ahead ?
+paris carpenter , a veteran astronaut lurks turned into action to moscow the corrupt sheriff at bay . no one thing he is an unwelcome visitor from the clutches of the somewhat young women on a road trip . when fitzgerald has had a fantastic rapper within ” he rescues just dreamed of eat 1 , brains ) and later . david ( stanley ) and her team need for the article of fame - seeking deal , and sell his friends and find jaded traitor . they then marching and later , besides their friend , a gruesome strike up on the high - tech premise during the pennsylvania .
+u . s . un . a film / officer portrait of their romance in 1994 challenge the play at the aliens of the red private dead after the world receives a of being made into a world full of idol chemical rouge in 2000 .
+plantation asleep s musical brooklyn show that is about a cyclist high school in this place where we investigate the wrong guys , they learn that word was heard .
+in south korean war , a young bear screenwriter grows torn young off to search of friends to wage an unsuspecting nobleman named delacroix ( trying to keep schedule , with the demons of his life , but new summer money ; orders the group embarks on a mission to save him in a wilderness with twists and , the gold gone — and attempted enough only to prevent their friend and other ideas , into mortal months .
+in
+
+Epoch 5/10
+233/233 [==============================] - 104s 448ms/step - loss: 3.6624
+Epoch 6/10
+233/233 [==============================] - 104s 448ms/step - loss: 3.0833
+####################
+Temperature: 0.2
+####################
+became the basis of the world ' s most dangerous show that is destroyed .
+a drama about explorer ( johnson ) , a misunderstood member of , a pure - irish teenager , a a man who is struggling to help her son in the process .
+a young idealistic teacher inspires a strong bond between the royal family of his mother ' s death . but when the mission turns out to the u . s . .
+a woman is formed between the past that he is a man who works for her life .
+a young boy is unable to survive in search of her father , her sister , has a baby on a drunken night in the middle of .
+an uptight , successful lawyer , abandons her , and her boyfriend , her husband , , a free - spirited , with her boyfriend , who is torn between her new boyfriend .
+a young girl is caught between her two younger sister , who is torn between her life and her new boyfriend .
+a young idealistic teacher inspires a promise of a non - vampire who is struggling to be a job at the right .
+a young man is unable to make a job at the right man she ' s a little boy . but is the last living heir to her life . but when the two are stranded on a night of long - lost family , they must find a way to their destination .
+the story of a group of , and the world of religious and the soldiers of their father , the first , and unforgettable chosen to make their lives .
+a
+
+mere audience .
+the story of a young girl in the mid - 19th century , a flower that allows him to be a small settlement .
+a young man is unable to make a job at the house of her dreams , and her older sister , has a successful , her husband , and her son ' s life is a relationship with her life .
+a small - time cop , a hitman and a hitman by a young man .
+a young couple moves to los angeles , where he discovers that a man is destined to make it .
+a young girl is unable to make a job at the local high school , and a failing to help her son ' s death .
+a small - time circus illusionist and a colorful inventor fighter pilots : a hitman by a deranged sense of seven magical powers .
+a young idealistic teacher befriends a stroke that leaves his life in a car accident , which he is ordered to see the world of his photos for his son .
+the story of a young girl with a successful trainer whose strange fellow passengers and a family of talent for a long - ago .
+an epic tale of the classic italian - comedian , a tank - fiction comedy about the biography of basketball . the film is based on the autobiographical novel by the fictional italian - comedian and commands a series of events that reveals the impact of the us diplomat teams up with the ussr and the insurgents .
+an epic drama about the events of the famous and influential black nationalist , and the two have their own path to
+
+label , benedict and his two children .
+a group of friends try to find themselves in the middle of a new york city , california .
+in a small alabama town , jack ryan ( helen hunt ) , and her brilliant , penny , are at the same jokes that will let him to be a parent to the big screen .
+when the dastardly sheriff of a factory and a small - town sheriff , a shy , a hellish fire - fighters , and a small - town sheriff , a lone warrior named , a hellish fire - fighters , a small - town surfer and a hitman by a deranged fan of a nefarious wave .
+a group of six friends are stalked by a vicious blizzard that turns out of the human relationships and the insurgents the world war .
+when a group of six friends receive an invitation to get back into their home , the two embark on their journey through the eyes of their faith .
+the story of a group of settlers in a small texas town , is sent to civilian , and turning their relationship with a terrible cover - up creatures .
+the story of a young italian family , a bright , and a successful playboy , is told that the town is a suspect .
+a man is formed between the past that he is a man who is struggling with her best friend .
+a young girl is caught between two of a straight - year - old emperor ' s and her younger brother , who is destined to be a great actress .
+a young girl is willing to be a
+
+####################
+Temperature: 0.5
+####################
+and her friends are forced to do with her best friend . he lost his friends , but is the same time : she is willing to be the same problem : " she ' s .
+a sweet - natured italian waiter named gets an ordinary man with a younger woman from a small - town girl . urged by a drop - long - time , she accidentally enters the country for his son , and a man - - a girl he ' s a web of outlandish revenge that could not just have the right .
+a woman is willing to take his wife since the police force that he is indeed , and the only relative ' s imaginary friend is not only quite of them .
+the story of an idle rich family who just might work together to find out if it .
+in this cracked fairy tale , two escaped convicts at a church during world war ii , which follows the use of the past that survived the war .
+when a wealthy new yorker is brutally humiliated by nightmares , anna , is found on the line of , where he is ordered to see the world of crime and reluctantly reaches the world ' s most notorious .
+the story of elliot , a humble carpenter and his family , the heroic loner , is a small - town of a british heiress , and must decide to survive the truth .
+based on the 1930 ' s life , is sent into action - and - it ' s day in the gulf of 11 : " the .
+an italian man ' s consuming love at the 1920s ,
+
+is determined to make it all , but what they ' re not only that ' s exactly is that will achieve him !
+a young girl is willing to go to her father , but she ' s got to be a job at the end of her life , but her relationship with her boyfriend , she is forced to return to her life with her and her dog .
+the story of an idle successful soccer team , which played by allen , who is in the last time as she must complete the of the most beloved most beloved that most beloved " zeus ' s most beloved " , " and he is a hot on a drug lord and a bewildered fly that will take him from the police academy in order to prevent a nuclear bomb .
+an elite assassin is formed a road trip with his girlfriend and his new partner , his favourite bar , is the perfect setting for the paper .
+when his peaceful mother is killed by a ruthless terrorist known as the " " and the two children have their first hope for a fresh start .
+an undercover cop in search of the lives of a teenager , a finance - rich woman who is struggling to complete the run from her son ' s death .
+the small town of woodsboro in the small town of new york , who is arrested for the first time he is struggling to win her role in the woods with her father . she goes to be a successful for her role as a little boy .
+in this post - apocalyptic future , a group of students find themselves in
+
+complete his life .
+in this spine - animated comedy sequel that follows the hapless stoners ' s barbershop on the brink of collapse , which the leader of the mormon - in history of the us basketball team .
+this epic tale of the classic horror movie tells the story of two young men who are prepared for the first time for the first time : " the girl " is a woman with the lovable . he is willing to find the right combination with the perfect family , prompting their relationship .
+a young pennsylvania man finds himself caught between the police at a corrupt police force that brings him to the earth .
+after the death of their friend , the film is a sweeping tale of two young adults , students on a road trip to discover a hideous flesh - eating in the desert . with the help of a streetwise and enduring a collection of of events that the human - make a plan to become the world .
+a young idealistic teacher is on the austrian of beverly hills , where he is taken the and confusing of her life as a teacher , a woman he ' s never gone : a man that will be true love .
+the devil wears prada is a small - time circus illusionist and has been hijacked on the bullies at a week - like high school .
+a reporter , a professor , is assigned to a " " - monster " zeus ' s " water " show " . miley stewart in the south of the 1980s , this curious tells the story of a young boy named telly , is told from a
+
+####################
+Temperature: 1.0
+####################
+retirement to rescue japan band out and why he intends to take over a series of poker tasks . now hooks seeks his nemesis , the town turns times and her only hope that left him once with him .
+in this biographical story of a teen girl seeking revenge that two time whoever john needs reason and make the potential side - changing " relationship among humans .
+( a ) who brought together to be a handsome but when a woman is the less than he ever - expected training . based on a story about for life , a cop named is tracking down a washed - up president and arts cameras in a fight for an organ - program that will change .
+six peter d love is over part of the legendary hearts of france in its depiction of this film that may not be more about time than neil man .
+a modern male picture - wide film tells the story of those who lost in walls , friendship and madness .
+two twelve - year - old kevin opposite online game up than their family killed in britain . the way is up for a girl who comes through their magical world . this time , dialogue , have a hit night at work for mary ? and edward crosses paths with fellow relationships and on his jealousy .
+an american girl tries to expose the songs in order to retrieve it out of oscar life . as the moon draws closer to los angeles , jerry tries to escape the local sheriff ' s book after saving a plane crash : soon the rising and an all - powerful prospect of hero encounters . they enlist
+
+. he travels from prison with helen , is mistaken for the first time , the favourite manager of a gritty bar called develop an unlikely married couple whose quickly once not only his destiny . upon her heritage to the town and secretary , he learns that it is not only one expected .
+frank , a lonely , but the of the cruel , and begins to his life : a religious car accident which he tells her life , and he discovers the grown lady ( in n . sinja is initially able to see birdee unhappy - man she can used to divorce . with a presentation of his late school , she finds himself injured and declares the boy ' s all neighbors . in an intense singing racing adventure in the garden of a 17 - year - old scottish - old student .
+esther to be in a parody of orleans passion , reality dutch sale , the shopkeeper jones . his first world is turned upside down at the horses side of san . but he is approached and leave south television unaware that puts the chaos of east berlin . armed competition . the concept dance , and they find immigration and push their maturity , enola , and the lord ' s head : " the actions of a new future , except that ' s world is exposed . .
+in the yorkshire in the woods , the little yellow , colonization of the massive farmers , native americans and begin to have war . as they return to the basement of a missing from the roman frontier mistake , gandhi shows him for students . the vacation becomes overwhelmed by sophie that b . nixon
+
+to work out with her family , become a political muslim mom he lives with a friend .
+terry ben has one whether nothing to serve as best friends for a trucker to join him what ’ s already been genetically there they wronged you in and shapely history .
+during world war ii , the guns , a teenager , anna family find the man ' s missing brother in town . when it falls , sam wants the , she meets andrei . his mom , dad , is about to become a big guy , and sexual attention in english music .
+seven years after high school on a cast of relationships with her three year contracts off against the giants of drone - buried arrival of 12 : prisoners .
+bounty hunter amanda michael ' on james phone sean penn , returns from the early family of the france , but he treats his clueless when the renegade fbi steed family resurfaces to retrieve his valuable and idol chester playground with his own . paired with his mentor ' s romantic getaway , volunteers to countless in pursuit of sight and throw a year old lawyer connor , but for his time , struggles as it , courage , and for .
+is a member of a woman who just a classified romantic tree . discovering her dream life is losing , as her marriage is to the last minute of their situation . the disastrous and individual fall , each find themselves , to the bonds of their lives . in the u . s . without a terrifying and second chance to life him .
+aspiring actress , amelia rescues a mysterious symbol to survive under the fraternity
+
+Epoch 7/10
+233/233 [==============================] - 105s 449ms/step - loss: 2.5327
+Epoch 8/10
+233/233 [==============================] - 104s 448ms/step - loss: 2.0781
+####################
+Temperature: 0.2
+####################
+not what she is . . . .
+a young woman is taken by her older brother , who is suicidal . she has been offered a temporary role in the middle of a coup , discovers that a man can be involved in a supernatural battle between the cia ’ s twisted leader .
+a young boy and her son is caught between the two sisters in the world .
+a young woman is rocked by two of boys from the wealthy sisters who want to be the people who has come to terms with her .
+the story of a 25 year old virgin in the mid - life of the 20th century , where he became a war zone in the nation of a . he made up to a turning point when he wakes up in the ring of her apartment building .
+an ambitious reporter and his wife are involved in a dark apartment to the house of a mysterious , who is mistaken for a secret code that could have been captured by the .
+a young woman is rocked by her parents , and her naked , her husband , is forced to move in the middle of the very successful , a corporate corporate teenager .
+a young girl inhabits a life of nowhere after her stepmother and her husband ' s best friend .
+a young boy is rocked by the enthusiastic , the great wizard of the late - american political and . ivy league plays a manhattan , whose controversial , and a charming girl , a with a weakness for the man ' s head .
+the story of a teenager who is sent to a southern beach town
+
+. the military ' s enlist the brave and into the world .
+a young woman is rocked by two of america ' s most successful divorce , but her father is killed by a werewolf and her writing .
+a trio of friends with a young woman who is caught up in a desperate struggle to get back into a dangerous new drug ring .
+after a tragic accident , a cloud spirit of the great - american corleone crime is lured into the sealed by the , the most dangerous world war .
+in the year of the 1970s , the story of a young woman who is sent to a southern beach town for a young woman .
+the story of a young woman who is sent to a southern beach town for a summer camp .
+a young boy is rocked by a single mother , who is having an affair with a married woman . she is a great job , she has a weakness for the boy who is struggling to care for her life .
+a young woman is rocked by two women who have been in the same way .
+a young boy is rocked by a single mother , who is torn between two women in the music that she is allegedly arrested for murdering her husband . she is arrested and asks to marry her husband , especially after her mother has mysteriously disappeared .
+an orphaned boy named is in a race against time in the small town of , and the other - townspeople of the music .
+a young boy is rocked by the enthusiastic , great white ' s most successful entrepreneurs .
+a high
+
+shark , is sent to a life - climbing there , and the pressure mounts to a for the impossible challenge .
+a young boy ' s peculiar upbringing renders his wing and his two children , fbi agent chris , and his ragtag new co - existence , of the of all , and a whole new life in the forest .
+a young man ' s peculiar upbringing renders his wing and his two best friends , is forced to move in the wake of a scheme to fulfill the truth behind the hole .
+a young boy is rocked by an unlikely friend whose resident baby on a roadside quest to destroy the human race .
+a young boy is accidentally caught by an older woman who is struggling to come between the man who is left her to her father ' s wedding .
+a hard - partying and a con man is forced to complete his job as he ' s a superhero .
+in the early 70s , the late 1960 ' s father , a young boy , is a mormon living in the life of a train , turning into a car accident . but when they discover that they ' re not alone to the one , they ' re not alone . they are welcomed by alexia ' s girlfriend , especially the game of how and they are not alone .
+a young woman is rocked by two of america ' s most successful divorce , which is torn between the women ' s winter . there ' s one night to get back to the 12th century , but everything they ' ll kill her out .
+the story of
+
+####################
+Temperature: 0.5
+####################
+an accountant , finds a magical identity of revenge on the thugs who killed his wife . he is tormented by the very successful , only to engage in the entire world of .
+in , texas , , five - years ago , , a young woman , the boy , has a chance to prove it in the way of the girl ' s past , and has a chance to be .
+in a typical future , a result of a woman who was born in the middle of , and the other on the street - and - be a hollywood star . as the journey escalates , averill and chase the americans are left for the first time in life and how to stop them from the family . they make a choice between the media circus . they learn how to go from what they are not the same . but the authorities got to , a man who believes to be a soldier .
+the story of a 25 year old virgin in the south , the battle of the nature of mankind . the story of caleb , adam , who live happily in love with the beautiful princess rises to the notorious . the fbi agent jack ( paul ) , who is a married , with a hard - drinking hip - hop record label , and his desire is not happy as the dire and most terrifying little numbers .
+a young man living in a desperate car accident leaves him to a mysterious corpse bride , and the pressure mounts .
+after receiving a group of brutal murders in the high school , , a group of gangsters try to survive in a
+
+a dog that is slowly desperately to be .
+elizabeth ii , a small , - coming - of - age story about to 12 - year old boy who is on the verge of marrying her place . when the disastrous and his friends have been murdered , the two women embark on a journey of discovery that leads them to the land of their father .
+the story of lehi and the of the mountains , with the fact that world war ii , but when one year is cut short when the sky is to the , independent prince of the valley . when their various lives and they are finally , their work together and their family reunion .
+the story of a 25 year old girl from 40 - year old finds himself growing in the second too . on the verge of , she hires a famous and guy who claims to be a suspect .
+a story about a man who knew that the boy ' s life is a picture . when she arrives in the middle of a coup , she meets a famous writer who is upon a " " " gift " as he decides to take part in the wake of a corrupt , a woman .
+in the fall of two french high school in new york , the , a free - spirited family is in hot pursuit of the local white , a small - town girl to a huge network .
+a man and mother has discovered out to drink , including her father , a young woman in the south side of .
+a young woman becomes inexplicably attracted by a single mother , has one
+
+woman ( simpson ) , a sitcom writer , a producer by a young woman who is stalking them .
+a newlywed couple discovers that that that ' s a very loser , but that he ' s not all of business . his wife , is skeptical of the last , and the ravishing journey through .
+after a magical land in his new nation , the texas teams brings an all - that - free - may - be - quiet life - of - the - children business owner .
+after years , a man tries to make a major - american maid in disguise where he gets a great - bender on the best selling the valley .
+an elite assassin is by his wife and daughter , who their son is about their next act . the arrival of a visitor with a man who is out to make it with the love of her life .
+in the midst of a nasty public school , a young boy is kidnapped by a stranger .
+two women struggle to survive in their first world of relationships and make a horrifying tale of the youth .
+set in the civilization , a group of gangsters led by a group of paranoid college , which they can ' t seem to their teachers . but they ' re not what they seem to bury the family ' s thoughts and sentences , joys and they come together in a struggle to save the day and their family .
+the story of a young woman who is sent to a southern beach town for a host of vengeance against the three missing characters , the race is by the brothers
+
+####################
+Temperature: 1.0
+####################
+, and if his one evening may stand be really .
+river miller and paul scott comes from critics and experiencing life as a series of mexico , scrambles to make their
+stranded at the top war , finds himself facing panama , and a street - smart vampire hunter , who wants to have to fight in his best friend , the only thing that will always be hilariously the wrong ? first time it would have the best to expose frankie ' s , a real shock ' s family , quickly go closer to each with the help of a mysterious alien presence . james quickly ’ to stop , in the center of a , with her mike ' s and her naked car dealer named martin wants them for the whole and alive is beginning after he falls in love with the black , but when unlucky owner tries to follow her own father to be a soldier . afraid , , a former addict , sends his friend , everything to do anything but despite her life . as a on top secret , at this birthday , the voice and examines the powerful situations that executed ' s totally to mars , competition within the earth . you on mankind ' s a of madness .
+a - laced political thriller set out on the run from assassins who killed using his younger brother , searching for jason and his increasing obsession . determined to duck loose in this comedy , a group of scientists make a community are unleashed on a journey through the streets of chicago , killers , and a free - spirited female , moves to ghetto the event for a real romance in the hope
+
+dream of government ' s therapist who turns out to battle a gang of one . before they found a virus that bennett was really trust and glory to k2 again .
+invisible forces the summit of four thugs a spaceship with a specialist and a deadly virus that lives the world has to stay ; some of them is by spending the war of the very planet . then it now they didn ' t know what you know is .
+in america , the adventures of a struggling couple bury to protect their poverty to death .
+for generations , the of the united states captain escaped convict tony desperate to christmas . things only closer to safety , the kitchen finds a rebel in a world of gangsters . but the combination will be some nearly 000 for the customers and the reality of ponyo .
+dr . john dolittle is ordered to go undercover as they find a way , they get the same human and others into doing so they of their lives . when these events collide is set out alive , and the pressure mounts to perform as they questions that paradise is not to get .
+the film industry is a film richard than . the military work is the story of a romantic comedy murder in the south . stunning year have been beaten by king when a boy named jill as her longtime partner . though , laura , clay never interested in the bird olympics of a and forced to open up one care , jealous kids where he ' s poor drugs , and asks the police at trying to make their why they hope their stories back from the british raj .
+
+by a rush organization that will launch global corporation appear in the sport . convinced the sinister is the fate of her , and a gay soldier . but freeman who , the reluctant , " ryan ( mad ) , a . it turns awry when all six friends have to terrorize their neighborhood - - and no one - wizard - - control . but if they do not only what she thinks he ' d want in what anna during the , including yet seeking . " she over the , he ' ll have always wanted to party . but when joel discovers something connection are her brother , he loses his skills to move citizens . meanwhile , the queen want to give up their money and pursue an old attraction step ahead of the ira ( julian kathy who has sworn to do so super - power spy .
+' s , still approaching underworld millions of control of stolen .
+police chief rogue agent bob thornton ( johnson ) connects a small village called into his life . with his students get his 10 days and travels back from a stick college , a coming - of - children and an opera boy from the school woman who have saving a date ,
+shattered illusions are driven by his life family by the popular prince and a religion of mexico by luck , and a love of a student body .
+a small - time con artist - a - ruthless bohemian state reunion for a blessed end saves the harvard american fisherman . when he discovers a wish is tempted into his life - to - be ex - husband who plays maggie , he ' s determined
+
+Epoch 9/10
+233/233 [==============================] - 105s 449ms/step - loss: 1.7363
+Epoch 10/10
+233/233 [==============================] - 104s 448ms/step - loss: 1.4862
+####################
+Temperature: 0.2
+####################
+event in the real world .
+bianca , a tenth grader , has never gone , but his son is a son of a woman . when he learns that she is a dog he ' s in the company of her dreams , and she ' s a lesbian and her lover .
+a young boy , working on a class of london ' s roosevelt ' s upbringing , has a deal with a homeless man .
+the law enforcement in the south of america , is a story of love and the show that was once again .
+a grieving widower with a friend who visit a country to find it in a horrific car and is threatening to fight for their lives .
+a young girl is institutionalized for an ordinary man who is being by a wealthy car driven by her mother .
+when a cia agent goes on a mission to kill the murder of a young scientist but the pair become a city that may be able to save their lives .
+a group of college friends , and one of their sisters , the two become fast friends . in their lives of the worst , the free - spirited , has a baby , to do with the man ' s mind .
+a story about a troubled teenage girl , a talented writer , who lives in a race against time , and he ' s a part of a murder and .
+a young man is forced to work as an executive producer puts up in a coma after his mother , takes a job at a house , a dolphin and a little girl .
+a young man
+
+the elderly father ' s distant cousin and daughter , the first girl , is by a wealthy wife . but he ' s a rigged bus , she ' s a ticking and the other until a kid in the city of his own .
+a psychologist and daughter move to a mysterious cabin in the woods falls in love with their father .
+a young woman is rocked by two of america , including a college kids who are living under the same man .
+a young man struggles to survive the sale of a young man .
+a young woman is rocked by two of america , including a college kids , and a man who can ' t seem .
+a man with a condition that a mysterious racer has just a plan to hold the world through a new city .
+a group of friends try to perform a small town in the west of the human , but they can ' t seem to keep the same way .
+a man is in search for a corrupt sheriff . the night of a senator is in a monastery and , a local gang is like a kid .
+a man who has been in a race against the son of his dreams and her son .
+a young girl buys a strange between california ' s most successful friend .
+a young girl , george , still , in their lives , and their affair are tested when she ' s in love with her boyfriend , a strange contractor and her own faith .
+a fictional story set in the furthest reaches of the city , we battle against the british in
+
+her son , her son , , and a young man who has come to become a .
+a wealthy new york nightclub owner is lured into a world of blood and a former teacher , a cult of , and a street - smart - based on the life of blood - - and his young son , , a writer , a stripper , a cult who doesn ' t know is not , even if it seems .
+the story of the first major - league team of the team of the , the i ' s first american tour , which a unique opportunity to hold the game of the appearance .
+when a young man struggles with his girlfriend , he ' s forced to take a job in a monastery and , he can fix the diamond in his camp . but when these two are assigned to a city , lizzie must come to terms with their tense dealings .
+a pair of a young woman , a charming man who has been captured by a group of friends including a corrupt sheriff .
+a young man is rocked by the enthusiastic , who is having an affair with a married woman . she has a battle with a " " the " bad - big movie " , " he sets out to find her .
+in a dystopian future , a totalitarian regime called the nephew , a kidnapped police officer , a man who is arrested for death .
+a man who stops into a foster home , upon his life , he takes a job at the house of a crime he ' s .
+in a divided off the north
+
+####################
+Temperature: 0.5
+####################
+survive in search of a better life .
+a young woman , a talented artist , and the young girl , is on the road to drink , and everything . the cat - finds that herself as he finds success in the path of her dreams , and the true love of her life .
+a lonely and individual falls in love with a non - greek and a woman who is struggling to turn his own .
+a group of friends whose are competing in their memories of a of a deadly game — but the residents soon discovers the key that may hold the fate of the earth that will change history is not to have much to the gold .
+a young man is forced to uncover a mysterious medallion and a little white .
+a young man a man who has been in possession of a strange mask and mouse with the body of a volcano - from - and the real world war .
+in a dystopian future , a totalitarian regime called the young boy named henry , is a small - town girl with a photographer . when she emerges , he takes a job at the town of his mother , and a mysterious , who is about to appear on the way of her dreams and learn that she is not what she wants to be .
+the story of an ex - con who lives in a new zealand tribe . when a younger couple goes missing and fellow residents for doug them , she draws her to marry her husband ' s best friend .
+based on the true story of legendary " adventures " of the hard story of
+
+a father , led by a young woman who had a passionate love , must battle with the past as a knight of the man she loves .
+a young boy ' s peculiar upbringing renders his partner to a small town in a new zealand . he starts to help the dark hunger to find the truth behind .
+a man living in his post - apocalyptic world , jack must team up to the death of a local london lawyer , but he himself into a boxing promoter , but he can ' t bring down the game ' s alive .
+the story of an ancient force that ended his days of eyes to the united nations in the same high school .
+in , joseph ( vanessa ) is a star athlete but when he ' s best friend , he is working at the school , a man who is always killed . after a ride with her boyfriend , clary and her older brother , ali , who has never gone , and their friends are in relationships . but when he receives a bump on a night , he discovers a quick - and - tumble from his lab , and the traveling singer falls for his wife , who is a recovering in the with her , leading to her husband ' s restaurant .
+the film is set in tuscany during the black market . a young man named is a love triangle , but when he learns that she is a famous producer and a woman who claims to do with her upcoming .
+a fictionalised exploration of the life of louis , an alcoholic and , young student , separated from their parents
+
+the son of god ' s regular , she is forced to learn that she has another in her eye . but when he discovers that she is actually a mysterious woman , she has dreams about his son ; she is a . he is hired to do with his son ' s " - one - man - she has to a " good " - in - country . before he ' s a mere audience as he ' s in a hot day , she tries to protect her own past . . .
+the first is a little pig who doesn ' t like any link : , a young kid who claims to be in the middle of the night , and him that he is actually the only one of her husband .
+a young girl , danny , suffering from a magical world and soon becomes a sensation . the man she knows that she wants her husband and a few of her life .
+a successful businessman working on the run from his family and an extraordinary discovery of a house that belongs to a big game .
+a young man struggles to survive the sale of his wife and a baby on the farm .
+an uptight and naive outsider named looks to be a " " gift " from the british empire " : " the girl born " in order to keep his father ' s operation , and is forced to confront her father ' s brother , who ' s got to become the only problem of her life .
+in this biographical story of the rebellious robert of the movie franchise , peter parker is a 23 year -
+
+####################
+Temperature: 1.0
+####################
+been living in the country with dinosaurs and : the end of their lives . the duo when the cat family visit to the u s s . e . m . o ' s name .
+two bored , , drug - race is stalked by an isolated island police and then a marooned - on the russian bank .
+two kids in a pakistani carnage in which quickly became a french midwestern , and a young lady who has always been .
+a rookie cop whose father has been a package along with a " super hero , a team of , and a semi - aged , generous friend and french girl - - to rescue him laid off of old demons .
+video intelligence nations investigator make a genetically engineered assignment as a problem , with a homeless woman .
+when three thirty college friends , todd , go " and their weekend is such life seems to go . stuck at a tournament , an unlikely friendship develops when they encounter a strength of mexico before he never knew .
+on which a gruesome art plan , flee , a pair of charming , and a group of kidnapping passengers – appearing a chain to deal with a local terrorist . they are having closing in the same time seeking their own chance to earth - - the boy can work together .
+a surfer gunslinger is assigned to protect a violent clash . upon a powerful run kidnaps an elite , james desperately wants to know secret to through a sci - roll artist , must take their toy - not - a plan .
+the ultimate kung - fu film , adapted from the kingdom
+
+from a small village in money and her home where he lost his people in the holiday . throughout her mind as a safe house , plan begins with lola ' s wishes to return " to a stranger , frightening to ken .
+elsa and illiterate two different families ( danny walker ) , and the other men from a series of collapse . the two men go into criminals on becoming mexico to take part in time : the city ' s first show very very chosen can alter women .
+a historical drama based on the control of five from india in the middle east 1980 , north america wage war .
+48 hours with as comic - forces values to louis in the heart of ' s classic island is torn off against major music supernatural stories from the perfect future .
+having the war of this action - packed feature film , south america ( - lawrence ) dreams of making his world along with , from a free - spirited young gold ; things take matters when she enters into a legal home .
+former getaway hunters not only a small town in this year , a former artist on a country teen with a high - powered semi - rifle . when he must trust a thirst for teaching him , capture the park ' s owner , has only one step ahead of money or do with his turf , life . with her crime - free of brooklyn , she left on charm , she receives after an accident . clary also tells her life , and a colorful force that may just have fallen in common , so when he finds herself in playing .
+
+who left her for the sweet of his eccentric mother hannibal eric , the two best friends , has yet their way to steal a cash pot who hired him with a machine and thomas at his school ' s love , problems arise in him that just could end have no power to escape it .
+phil weston is a fictional pirate from space - crown , which he ' t like sex , as a woman he is ready for the hazards of a man . when their friend suddenly jean dies in a of closed house , he falls for toretto ' s no - one priceless villain and an secret cult who have built the good .
+everyone is best to be a word of college life at the high school , of the wrong girls at the greek area . with , a young fbi through to his job , his legacy he ' s suddenly smitten with his , successful , desperate to make a job to lose her virginity . there is too more fierce battle against him , parrotmon and and more to sort up the city where she meets jimmy ' s focus and make way to a serious - night secret . his assignment goes to a wounded as a ruthless drug lord .
+in order to take an evil career , he finally joins his young - and women - - but no - end up to his family , makes a deal with the houston to the .
+william is a true story . the tragedy has become sexual .
+following the murder of his mates for a wedding party to finally track to steal in 14th german disparate or his help from
