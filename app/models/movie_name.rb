@@ -1,3 +1,3 @@
 class MovieName < ApplicationRecord
-  default_scope where(enabled: true)
+  default_scope { where(enabled: true) }
 end
