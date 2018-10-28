@@ -1,0 +1,1 @@
+class MovieName < ApplicationRecord; end

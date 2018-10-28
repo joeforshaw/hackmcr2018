@@ -16,4 +16,8 @@ class UsersController < ApplicationController
   def create_params
     params.require(:user).permit(:phone_number)
   end
+
+  def send_recommendation
+    
+  end
 end
