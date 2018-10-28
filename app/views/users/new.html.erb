@@ -8,6 +8,12 @@
 
 <div class="rule">~</div>
 
+<% flash.each do |key, value| %>
+  <div class="alert alert-<%= key %>">
+    <%= value %>
+  </div>
+<% end %>
+
 <%= form_for @user, url: { action: 'create' }, html: { class: 'signup' } do |f| %>
   <%= f.text_field :phone_number, placeholder: "A mobile number, ol' chap..." %>
   <%= f.submit 'Sign Up' %>

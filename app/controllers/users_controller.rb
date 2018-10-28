@@ -4,7 +4,16 @@ class UsersController < ApplicationController
   end
 
   def create
-    User.create(params)
-    redirect_to :new
+    @user = User.new(create_params)
+    if @user.save
+      flash[:success] = "Thank you ol' chap! You'll receive your first recommendation soon..."
+    end
+    redirect_to '/'
+  end
+
+  private
+
+  def create_params
+    params.require(:user).permit(:phone_number)
   end
 end

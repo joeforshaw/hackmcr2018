@@ -143,3 +143,13 @@ h1, h2, h3 {
   font-size: 1.25rem;
   margin-bottom: 0.5rem;
 }
+
+.alert {
+  padding: 1rem;
+  font-size: 1.25rem;
+  margin-bottom: 1rem;
+}
+
+.alert-success {
+  border: 2px solid rgb(33, 168, 0);
+}
