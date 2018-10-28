@@ -6,14 +6,17 @@ class UsersController < ApplicationController
   end
 
   def create
-    @user = User.new(create_params)
+    @user = User.find_or_initialize_by(create_params)
     if @user.save
       response = send_sms
       if response.success
-        flash[:success] = "Thank you ol' chap! You'll receive your first recommendation soon..."
+        session[:phone_number] = @user.phone_number
+        flash[:success] = "Thank you ol' chap! You'll receive a recommendation soon..."
       else
         flash[:error] = "#{response.error_code}: #{response.error_description}"
       end
+    else
+      flash[:error] = @user.errors.full_messages.first
     end
     redirect_to '/'
   end

@@ -18,6 +18,13 @@
   <% end %>
 
   <%= f.submit 'Sign Up' %>
+
+  <% if session[:phone_number].present? %>
+    <%= form_for @user, url: { action: 'create' }, html: { class: 'signup' } do |f| %>
+      <%= f.hidden_field :phone_number, value: session[:phone_number] %>
+      <%= f.submit "Resend to #{session[:phone_number]}" %>
+    <% end %>
+  <% end %>
 <% end %>
 
 <%= link_to 'FAQ', faq_path, class: 'faq-link' %> 
