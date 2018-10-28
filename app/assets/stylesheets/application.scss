@@ -104,6 +104,9 @@ h1, h2, h3 {
     font-size: 1.375rem;
     text-align: center;
     font-family: 'EB Garamond', serif;
+    -webkit-appearance: none;
+    -moz-appearance: none;
+    appearance: none;
   }
 
   input[type='submit'] {
@@ -113,11 +116,10 @@ h1, h2, h3 {
     border: 0;
     padding: 0.5rem 1rem;
     font-size: 1.5rem;
-    -webkit-appearance: none;
     border-radius: 0;
+    -webkit-appearance: none;
+    -moz-appearance: none;
     appearance: none;
-    outline: 0;
-    background: transparent;
   }
 
   input[type='submit'] ~ input[type='submit'] {
