@@ -1,0 +1,16 @@
+<%= image_tag 'logo', class: 'logo' %>
+
+<h1 class="team-name">
+  Mr. MovieBot
+</h1>
+
+<p class="tag-line">
+  The nation's favourite fumbling film&nbsp;fanatic
+</p>
+
+<div class="rule">~</div>
+
+<%= form_for @user, url: { action: 'create' }, html: { class: 'signup' } do |f| %>
+  <%= f.text_field :phone_number, placeholder: "A mobile number, ol' chap..." %>
+  <%= f.submit 'Sign Up' %>
+<% end %>

@@ -1,0 +1,113 @@
+/*
+* This is a manifest file that'll be compiled into application.css, which will include all the files
+* listed below.
+*
+* Any CSS and SCSS file within this directory, lib/assets/stylesheets, or any plugin's
+* vendor/assets/stylesheets directory can be referenced here using a relative path.
+*
+* You're free to add application-wide styles to this file and they'll appear at the bottom of the
+* compiled file so the styles you add here take precedence over styles defined in any other CSS/SCSS
+* files in this directory. Styles in this file should be added after the last require_* statement.
+* It is generally better to create a new file per style scope.
+*
+*= require_tree .
+*= require_self
+*/
+
+* {
+  box-sizing: border-box;
+}
+
+::-webkit-input-placeholder { /* Chrome/Opera/Safari */
+  font-family: 'EB Garamond', serif;
+  color: rgba(0, 0, 0, 0.375);
+}
+::-moz-placeholder { /* Firefox 19+ */
+  font-family: 'EB Garamond', serif;
+  color: rgba(0, 0, 0, 0.375);
+}
+:-ms-input-placeholder { /* IE 10+ */
+  font-family: 'EB Garamond', serif;
+  color: rgba(0, 0, 0, 0.375);
+}
+:-moz-placeholder { /* Firefox 18- */
+  font-family: 'EB Garamond', serif;
+  color: rgba(0, 0, 0, 0.375);
+}
+
+html, body {
+  min-height: 100vh;
+  min-width: 100vw;
+}
+
+html {
+  font-size: 16px;
+}
+
+body {
+  font-family: 'Roboto', sans-serif;
+  line-height: 1.3;
+}
+
+.page {
+  max-width: 32rem;
+  margin: 0 auto;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  flex-direction: column;
+  width: 100%;
+  min-height: 100vh;
+  text-align: center;
+  padding: 2rem 1rem;
+}
+
+.team-name {
+  font-size: 2.75rem;
+  font-family: 'Parisienne', cursive;
+  margin-bottom: 0.25rem;
+}
+
+.tag-line {
+  font-size: 1.375rem;
+  max-width: 20rem;
+  font-family: 'EB Garamond', serif;
+  color: rgba(0, 0, 0, 0.375);
+}
+
+.logo {
+  width: 10rem;
+  display: inline-block;
+  margin-bottom: 0.25rem;
+}
+
+.rule {
+  font-size: 1.5rem;
+  color: rgba(0, 0, 0, 0.25);
+  margin: 0.5rem 0;
+}
+
+.signup {
+  width: 100%;
+
+  input[type='text'] {
+    background-color: white;
+    width: 100%;
+    display: block;
+    border: 2px solid rgba(0, 0, 0, 0.1);
+    padding: 0.75rem 1rem;
+    margin-bottom: 1rem;
+    font-size: 1.375rem;
+    text-align: center;
+    font-family: 'EB Garamond', serif;
+  }
+
+  input[type='submit'] {
+    background-color: black;
+    font-family: 'Parisienne', cursive;
+    color: white;
+    border: 0;
+    padding: 0.5rem 1rem;
+    font-size: 1.5rem;
+  }
+}
