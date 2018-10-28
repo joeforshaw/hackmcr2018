@@ -1,1 +1,3 @@
-class MovieSummary < ApplicationRecord; end
+class MovieSummary < ApplicationRecord
+  default_scope where(enabled: true)
+end
