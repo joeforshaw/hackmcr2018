@@ -1,6 +1,4 @@
-<%= image_tag 'logo', class: 'logo' %>
-
-<h1 class="team-name">
+<h1 class="title">
   Mr. MovieBot
 </h1>
 
@@ -14,3 +12,5 @@
   <%= f.text_field :phone_number, placeholder: "A mobile number, ol' chap..." %>
   <%= f.submit 'Sign Up' %>
 <% end %>
+
+<%= link_to 'FAQ', faq_path, class: 'faq-link' %> 

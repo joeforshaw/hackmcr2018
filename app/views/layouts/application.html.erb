@@ -1,7 +1,7 @@
 <!DOCTYPE html>
 <html>
   <head>
-    <title>MovieBot</title>
+    <title>Mr. MovieBot</title>
     <%= csrf_meta_tags %>
     <meta name="viewport" content="width=device-width, initial-scale=1">
     <link href="https://fonts.googleapis.com/css?family=EB Garamond|Parisienne" rel="stylesheet">
@@ -11,6 +11,8 @@
 
   <body>
     <div class="page">
+      <%= image_tag 'logo', class: 'logo' %>
+
       <%= yield %>
     </div>
   </body>
